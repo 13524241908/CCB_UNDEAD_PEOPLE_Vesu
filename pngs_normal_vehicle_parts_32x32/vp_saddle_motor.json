@@ -1,0 +1,22 @@
+{
+  "id": "vp_saddle_motor",
+  "fg": [
+    "vp_saddle_motor",
+    "vp_saddle_motor_1",
+    "vp_saddle_motor_2",
+    "vp_saddle_motor_3"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_saddle_motor_broken",
+        "vp_saddle_motor_broken_1",
+        "vp_saddle_motor_broken_2",
+        "vp_saddle_motor_broken_3"
+      ]
+    }
+  ]
+}

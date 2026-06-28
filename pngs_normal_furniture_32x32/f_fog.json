@@ -1,0 +1,50 @@
+{
+  "id": "f_fog",
+  "fg": "grass",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "grass"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "grass",
+        "grass"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "grass"
+    }
+  ]
+}

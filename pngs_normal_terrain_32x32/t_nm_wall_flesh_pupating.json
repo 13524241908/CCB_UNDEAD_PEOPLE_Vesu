@@ -1,0 +1,157 @@
+{
+  "id": "t_nm_wall_flesh_pupating",
+  "fg": "t_nm_wall_flesh_pupating",
+  "bg": "t_nm_brain_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_nm_wall_flesh_pupating",
+        "t_nm_wall_flesh_pupating_1",
+        "t_nm_wall_flesh_pupating_2",
+        "t_nm_wall_flesh_pupating_3"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nm_wall_flesh_pupating_corner_nw",
+        "t_nm_wall_flesh_pupating_corner_ne",
+        "t_nm_wall_flesh_pupating_corner_se",
+        "t_nm_wall_flesh_pupating_corner_sw"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_t_connection_n",
+            "t_nm_wall_flesh_pupating_t_connection_e",
+            "t_nm_wall_flesh_pupating_t_connection_s",
+            "t_nm_wall_flesh_pupating_t_connection_w"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_4",
+            "t_nm_wall_flesh_pupating_5",
+            "t_nm_wall_flesh_pupating_6",
+            "t_nm_wall_flesh_pupating_7"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_t_connection_n",
+            "t_nm_wall_flesh_pupating_t_connection_e",
+            "t_nm_wall_flesh_pupating_8",
+            "t_nm_wall_flesh_pupating_t_connection_w"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_4",
+            "t_nm_wall_flesh_pupating_5",
+            "t_nm_wall_flesh_pupating_9",
+            "t_nm_wall_flesh_pupating_7"
+          ]
+        }
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_edge_ns",
+            "t_nm_wall_flesh_pupating_edge_ew"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_10",
+            "t_nm_wall_flesh_pupating_12"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_edge_ns",
+            "t_nm_wall_flesh_pupating_14"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_10",
+            "t_nm_wall_flesh_pupating_16"
+          ]
+        }
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_end_piece_n",
+            "t_nm_wall_flesh_pupating_end_piece_e",
+            "t_nm_wall_flesh_pupating_end_piece_s",
+            "t_nm_wall_flesh_pupating_end_piece_w"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_end_piece_n",
+            "t_nm_wall_flesh_pupating_11",
+            "t_nm_wall_flesh_pupating_end_piece_s",
+            "t_nm_wall_flesh_pupating_13"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_end_piece_n",
+            "t_nm_wall_flesh_pupating_end_piece_e",
+            "t_nm_wall_flesh_pupating_end_piece_s",
+            "t_nm_wall_flesh_pupating_end_piece_w"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_wall_flesh_pupating_end_piece_n",
+            "t_nm_wall_flesh_pupating_11",
+            "t_nm_wall_flesh_pupating_end_piece_s",
+            "t_nm_wall_flesh_pupating_13"
+          ]
+        }
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_nm_wall_flesh_pupating_unconnected",
+        "t_nm_wall_flesh_pupating_15",
+        "t_nm_wall_flesh_pupating_17",
+        "t_nm_wall_flesh_pupating_19"
+      ],
+      "bg": "t_nm_brain_bg"
+    }
+  ]
+}

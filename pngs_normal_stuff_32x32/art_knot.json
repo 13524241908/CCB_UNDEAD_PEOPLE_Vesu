@@ -1,0 +1,19 @@
+{
+  "id": "art_knot",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_knot"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_knot_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_knot_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

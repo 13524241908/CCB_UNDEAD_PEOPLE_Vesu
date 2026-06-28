@@ -1,0 +1,35 @@
+{
+  "id": "t_cvdbody",
+  "fg": "t_cvdbody",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": "t_cvdbody_corner_nw",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_cvdbody_t_connection_n",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_cvdbody_end_piece_n",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_cvdbody_unconnected"
+    },
+    {
+      "id": "edge",
+      "fg": "t_cvdbody_edge_ns"
+    },
+    {
+      "id": "center",
+      "fg": "t_cvdbody_center"
+    }
+  ]
+}

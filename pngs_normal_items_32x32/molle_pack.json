@@ -1,0 +1,10 @@
+{
+  "id": [
+    "molle_pack",
+    "molle_large_rucksack",
+    "molle_medium_rucksack"
+  ],
+  "fg": "molle_pack",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

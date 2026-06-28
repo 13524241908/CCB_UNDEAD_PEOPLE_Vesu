@@ -1,0 +1,14 @@
+{
+  "id": "cigar_lit",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "cigar_lit"
+    },
+    {
+      "weight": 10,
+      "sprite": "cigar_lit_1"
+    }
+  ],
+  "animated": true
+}

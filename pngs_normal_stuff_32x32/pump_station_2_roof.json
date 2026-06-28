@@ -1,0 +1,11 @@
+{
+  "id": "pump_station_2_roof",
+  "fg": [
+    "pump_station_2_roof",
+    "pump_station_2_roof_1",
+    "pump_station_2_roof_2",
+    "pump_station_2_roof_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

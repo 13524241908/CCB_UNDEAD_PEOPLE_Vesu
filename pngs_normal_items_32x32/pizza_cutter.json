@@ -1,0 +1,6 @@
+{
+  "id": "pizza_cutter",
+  "fg": "overlay_wielded_pizza_cutter",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

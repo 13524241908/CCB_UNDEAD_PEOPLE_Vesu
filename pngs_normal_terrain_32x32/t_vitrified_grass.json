@@ -1,0 +1,90 @@
+{
+  "id": "t_vitrified_grass",
+  "fg": "t_vitrified_grass",
+  "bg": "t_nether_glass_floor_clairvoyance_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_center"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_1"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_2"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_3"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_4"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_5"
+        },
+        {
+          "weight": 5,
+          "sprite": "t_vitrified_grass_6"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_vitrified_grass_7"
+        }
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_vitrified_grass_corner_nw",
+        "t_vitrified_grass_corner_ne",
+        "t_vitrified_grass_corner_se",
+        "t_vitrified_grass_corner_sw"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_vitrified_grass_t_connection_n",
+        "t_vitrified_grass_t_connection_e",
+        "t_vitrified_grass_t_connection_s",
+        "t_vitrified_grass_t_connection_w"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_vitrified_grass_edge_ns",
+        "t_vitrified_grass_edge_ew"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_vitrified_grass_end_piece_n",
+        "t_vitrified_grass_end_piece_e",
+        "t_vitrified_grass_end_piece_s",
+        "t_vitrified_grass_end_piece_w"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_vitrified_grass_unconnected",
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    }
+  ]
+}

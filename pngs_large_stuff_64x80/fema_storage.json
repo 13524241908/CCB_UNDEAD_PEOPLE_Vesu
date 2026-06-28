@@ -1,0 +1,8 @@
+{
+  "id": [
+    "fema_storage",
+    "fema_military_building"
+  ],
+  "fg": "fema_storage",
+  "rotates": false
+}

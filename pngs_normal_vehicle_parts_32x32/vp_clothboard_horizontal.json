@@ -1,0 +1,12 @@
+{
+  "id": "vp_clothboard_horizontal",
+  "fg": "vp_clothboard_horizontal",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_clothboard_horizontal_broken"
+    }
+  ]
+}

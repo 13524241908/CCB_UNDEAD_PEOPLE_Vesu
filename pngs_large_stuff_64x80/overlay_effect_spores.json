@@ -1,0 +1,35 @@
+{
+  "id": "overlay_effect_spores",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_spores_6"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

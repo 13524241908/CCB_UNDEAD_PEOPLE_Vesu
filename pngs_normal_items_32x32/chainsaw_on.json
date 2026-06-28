@@ -1,0 +1,14 @@
+{
+  "id": "chainsaw_on",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "chainsaw_on"
+    },
+    {
+      "weight": 1,
+      "sprite": "chainsaw_on_1"
+    }
+  ],
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_vp_box_wheelbarrow",
+  "fg": [
+    "vp_box_wheelbarrow",
+    "vp_box_wheelbarrow_1",
+    "vp_box_wheelbarrow_2",
+    "vp_box_wheelbarrow_3"
+  ],
+  "rotates": true
+}

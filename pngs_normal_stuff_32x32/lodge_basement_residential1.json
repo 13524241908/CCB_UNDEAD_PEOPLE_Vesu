@@ -1,0 +1,27 @@
+{
+  "id": [
+    "lodge_basement_residential1",
+    "lodge_basement_residential2",
+    "lodge_basement_residential4",
+    "lodge_basement_residential3"
+  ],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "cabin_prepper_shelter"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_3"
+    }
+  ],
+  "rotates": false
+}

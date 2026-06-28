@@ -1,0 +1,22 @@
+{
+  "id": "vp_saddle_scooter",
+  "fg": [
+    "vp_saddle_scooter",
+    "vp_saddle_scooter_1",
+    "vp_saddle_scooter_2",
+    "vp_saddle_scooter_3"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_saddle_scooter_broken",
+        "vp_saddle_scooter_broken_1",
+        "vp_saddle_scooter_broken_2",
+        "vp_saddle_scooter_broken_3"
+      ]
+    }
+  ]
+}

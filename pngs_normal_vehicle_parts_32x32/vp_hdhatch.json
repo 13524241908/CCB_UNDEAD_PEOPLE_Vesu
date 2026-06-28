@@ -1,0 +1,16 @@
+{
+  "id": "vp_hdhatch",
+  "fg": "vp_hdhatch",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_hdhatch_broken"
+    },
+    {
+      "id": "open",
+      "fg": "vp_hdhatch_open"
+    }
+  ]
+}

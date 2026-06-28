@@ -1,0 +1,25 @@
+{
+  "id": "explosion_medium",
+  "fg": "explosion_medium",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "explosion_medium_corner_nw",
+        "explosion_medium_corner_ne",
+        "explosion_medium_corner_se",
+        "explosion_medium_corner_sw"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "explosion_medium_edge_ns",
+        "explosion_medium"
+      ],
+      "bg": "bg_t_lava"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t_missile",
+  "fg": "t_missile",
+  "bg": "bg_pavement",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": "t_missile_corner_nw",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "center",
+      "fg": "t_missile_center"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_missile_t_connection_n"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hw_road_bridge",
+  "fg": [
+    "highway_ramp_up_0_3",
+    "highway_ramp_up_0_2",
+    "highway_ramp_up_0_3",
+    "highway_ramp_up_0"
+  ],
+  "rotates": true
+}

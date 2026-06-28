@@ -1,0 +1,19 @@
+{
+  "id": "mon_hummingbird",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_hummingbird"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_hummingbird_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_hummingbird_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

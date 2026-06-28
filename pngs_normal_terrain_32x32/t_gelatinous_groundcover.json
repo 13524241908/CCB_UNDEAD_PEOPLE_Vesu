@@ -1,0 +1,57 @@
+{
+  "id": "t_gelatinous_groundcover",
+  "fg": "t_gelatinous_groundcover",
+  "bg": "t_strconc_floor",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_gelatinous_groundcover_center",
+      "bg": "t_strconc_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_gelatinous_groundcover_corner_nw",
+        "t_gelatinous_groundcover_corner_ne",
+        "t_gelatinous_groundcover_corner_se",
+        "t_gelatinous_groundcover_corner_sw"
+      ],
+      "bg": "t_strconc_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_gelatinous_groundcover_t_connection_n",
+        "t_gelatinous_groundcover_t_connection_e",
+        "t_gelatinous_groundcover_t_connection_s",
+        "t_gelatinous_groundcover_t_connection_w"
+      ],
+      "bg": "t_strconc_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_gelatinous_groundcover_edge_ns",
+        "t_gelatinous_groundcover_edge_ew"
+      ],
+      "bg": "t_strconc_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_gelatinous_groundcover_end_piece_n",
+        "t_gelatinous_groundcover_end_piece_e",
+        "t_gelatinous_groundcover_end_piece_s",
+        "t_gelatinous_groundcover_end_piece_w"
+      ],
+      "bg": "t_strconc_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_gelatinous_groundcover_unconnected",
+      "bg": "t_strconc_floor"
+    }
+  ]
+}

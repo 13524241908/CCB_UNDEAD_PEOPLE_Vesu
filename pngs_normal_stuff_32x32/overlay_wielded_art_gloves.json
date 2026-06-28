@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_gloves",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_gloves"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_gloves_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_gloves_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

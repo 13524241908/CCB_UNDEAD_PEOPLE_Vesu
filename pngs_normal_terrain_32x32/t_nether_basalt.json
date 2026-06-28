@@ -1,0 +1,73 @@
+{
+  "id": "t_nether_basalt",
+  "fg": "t_nether_basalt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 25,
+          "sprite": "t_nether_basalt_center"
+        },
+        {
+          "weight": 25,
+          "sprite": "t_nether_basalt_1"
+        },
+        {
+          "weight": 25,
+          "sprite": "t_nether_basalt_2"
+        },
+        {
+          "weight": 25,
+          "sprite": "t_nether_basalt_3"
+        }
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nether_basalt_corner_nw",
+        "t_nether_basalt_corner_ne",
+        "t_nether_basalt_corner_se",
+        "t_nether_basalt_corner_sw"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nether_basalt_t_connection_n",
+        "t_nether_basalt_t_connection_e",
+        "t_nether_basalt_t_connection_s",
+        "t_nether_basalt_t_connection_w"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_nether_basalt_edge_ns",
+        "t_nether_basalt_edge_ew"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nether_basalt_end_piece_n",
+        "t_nether_basalt_end_piece_e",
+        "t_nether_basalt_end_piece_s",
+        "t_nether_basalt_end_piece_w"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_nether_basalt_unconnected",
+      "bg": "nether_glass_imperial_road"
+    }
+  ]
+}

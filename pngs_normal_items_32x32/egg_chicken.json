@@ -1,0 +1,14 @@
+{
+  "id": "egg_chicken",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "egg_chicken"
+    },
+    {
+      "weight": 1,
+      "sprite": "egg_chicken_1"
+    }
+  ],
+  "rotates": false
+}

@@ -1,0 +1,5 @@
+{
+  "id": "turret_chassis",
+  "fg": "overlay_wielded_turret_chassis",
+  "rotates": false
+}

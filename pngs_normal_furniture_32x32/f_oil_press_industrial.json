@@ -1,0 +1,13 @@
+{
+  "id": [
+    "f_oil_press_industrial",
+    "ap_oil_press_industrial"
+  ],
+  "rotates": true,
+  "fg": [
+    "f_oil_press_industrial",
+    "f_oil_press_industrial_1",
+    "f_oil_press_industrial",
+    "f_oil_press_industrial_2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "station_radio_roof",
+    "station_radio_roof_1"
+  ],
+  "fg": "station_radio_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "t_conveyor",
+  "fg": "t_conveyor",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_conveyor_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_conveyor_corner_nw",
+        "t_conveyor_corner_ne",
+        "t_conveyor_corner_se",
+        "t_conveyor_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_conveyor_t_connection_n",
+        "t_conveyor_t_connection_e",
+        "t_conveyor_t_connection_s",
+        "t_conveyor_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_conveyor_edge_ns",
+        "t_conveyor_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_conveyor_end_piece_n",
+        "t_conveyor_end_piece_e",
+        "t_conveyor_end_piece_s",
+        "t_conveyor_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_conveyor_unconnected"
+    }
+  ]
+}

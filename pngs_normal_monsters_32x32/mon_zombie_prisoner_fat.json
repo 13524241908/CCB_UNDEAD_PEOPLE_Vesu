@@ -1,0 +1,35 @@
+{
+  "id": "mon_zombie_prisoner_fat",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_3"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_4"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_5"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_fat_6"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

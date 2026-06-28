@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_jelly",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_jelly"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_jelly_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_jelly_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

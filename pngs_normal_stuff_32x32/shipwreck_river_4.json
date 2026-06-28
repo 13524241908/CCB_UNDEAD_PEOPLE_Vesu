@@ -1,0 +1,23 @@
+{
+  "id": "shipwreck_river_4",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "cabin_prepper_shelter"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_3"
+    }
+  ],
+  "bg": "bg_dirt",
+  "rotates": true
+}

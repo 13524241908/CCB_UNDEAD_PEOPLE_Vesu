@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_trident",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_trident"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_trident_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_trident_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

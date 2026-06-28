@@ -1,0 +1,14 @@
+{
+  "id": "f_topiary_animal",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "f_topiary_animal"
+    },
+    {
+      "weight": 25,
+      "sprite": "f_topiary_animal_1"
+    }
+  ],
+  "rotates": false
+}

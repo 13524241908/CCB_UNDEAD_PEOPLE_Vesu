@@ -1,0 +1,12 @@
+{
+  "id": [
+    "police_roof",
+    "police_roof_1",
+    "police_roof_2",
+    "police_2ndfloor_1",
+    "police_upper_roof_2"
+  ],
+  "fg": "police_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

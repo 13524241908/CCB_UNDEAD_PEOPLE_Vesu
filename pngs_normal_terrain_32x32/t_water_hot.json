@@ -1,0 +1,131 @@
+{
+  "id": "t_water_hot",
+  "fg": "t_water_hot",
+  "bg": "bg_dirt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_center"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_8"
+        }
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_water_hot_corner_nw",
+        "t_water_hot_corner_ne",
+        "t_water_hot_corner_se",
+        "t_water_hot_corner_sw"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_hot_t_connection_n",
+        "t_water_hot_t_connection_e",
+        "t_water_hot_t_connection_s",
+        "t_water_hot_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_water_hot_edge_ns",
+        "t_water_hot_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_water_hot_end_piece_n",
+        "t_water_hot_end_piece_e",
+        "t_water_hot_end_piece_s",
+        "t_water_hot_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_9"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_11"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_13"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_15"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_17"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_19"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_21"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_hot_23"
+        }
+      ],
+      "bg": "bg_dirt"
+    }
+  ]
+}

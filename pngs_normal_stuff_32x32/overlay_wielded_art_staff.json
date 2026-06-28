@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_staff",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_staff"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_staff_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_staff_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

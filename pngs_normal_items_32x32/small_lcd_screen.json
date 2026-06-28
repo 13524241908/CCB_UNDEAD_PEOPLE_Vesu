@@ -1,0 +1,6 @@
+{
+  "id": "small_lcd_screen",
+  "fg": "overlay_wielded_small_lcd_screen",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

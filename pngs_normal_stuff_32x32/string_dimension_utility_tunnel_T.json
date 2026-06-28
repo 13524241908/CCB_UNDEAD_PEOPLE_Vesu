@@ -1,0 +1,10 @@
+{
+  "id": "string_dimension_utility_tunnel_T",
+  "fg": [
+    "sewer_t_connection_w",
+    "sewer_t_connection_n",
+    "sewer_t_connection_e",
+    "sewer_t_connection_s"
+  ],
+  "rotates": true
+}

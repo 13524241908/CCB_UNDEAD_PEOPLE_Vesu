@@ -1,0 +1,14 @@
+{
+  "id": "mon_robofac_laserturret_mk1",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_robofac_laserturret_mk1"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_robofac_laserturret_mk1_1"
+    }
+  ],
+  "animated": true
+}

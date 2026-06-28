@@ -1,0 +1,27 @@
+{
+  "id": "mon_zombie_runner_dusted",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_dusted"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_dusted_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_dusted_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_dusted_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_dusted_4"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

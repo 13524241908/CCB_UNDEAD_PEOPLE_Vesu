@@ -1,0 +1,12 @@
+{
+  "id": "vp_raft_board",
+  "fg": "vp_raft_board",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "f_broken_boat"
+    }
+  ]
+}

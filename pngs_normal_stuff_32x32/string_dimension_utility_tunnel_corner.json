@@ -1,0 +1,10 @@
+{
+  "id": "string_dimension_utility_tunnel_corner",
+  "fg": [
+    "sewer_corner_nw",
+    "sewer_corner_ne",
+    "sewer_corner_se",
+    "sewer_corner_sw"
+  ],
+  "rotates": true
+}

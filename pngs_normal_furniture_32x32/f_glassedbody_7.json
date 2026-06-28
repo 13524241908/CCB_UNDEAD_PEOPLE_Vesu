@@ -1,0 +1,17 @@
+{
+  "id": [
+    "f_glassedbody_7",
+    "f_glassedbody_8"
+  ],
+  "fg": [
+    {
+      "weight": 50,
+      "sprite": "f_glassedbody_7"
+    },
+    {
+      "weight": 50,
+      "sprite": "f_glassedbody_7_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg"
+}

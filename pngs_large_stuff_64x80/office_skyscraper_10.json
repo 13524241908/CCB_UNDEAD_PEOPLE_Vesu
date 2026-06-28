@@ -1,0 +1,17 @@
+{
+  "id": [
+    "office_skyscraper_10",
+    "office_skyscraper_10b",
+    "office_skyscraper_14",
+    "office_skyscraper_apartments_011",
+    "office_skyscraper_apartments_012"
+  ],
+  "fg": [
+    "loffice_tower_9_1",
+    "loffice_tower_9_2",
+    "loffice_tower_9_3",
+    "loffice_tower_9"
+  ],
+  "bg": "bg_big_open_air",
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "psi_phavian_lab_blockD1",
+  "fg": [
+    "lab_surface_brick_blockD1",
+    "lab_surface_brick_blockD1_1",
+    "lab_surface_brick_blockD1_2",
+    "lab_surface_brick_blockD1_3"
+  ],
+  "rotates": true
+}

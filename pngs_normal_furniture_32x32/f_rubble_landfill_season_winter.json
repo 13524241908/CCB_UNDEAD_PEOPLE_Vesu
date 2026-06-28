@@ -1,0 +1,75 @@
+{
+  "id": "f_rubble_landfill_season_winter",
+  "fg": "f_rubble_landfill",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_5"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_rubble_landfill_corner_nw",
+        "f_rubble_landfill_corner_sw",
+        "f_rubble_landfill_corner_se",
+        "f_rubble_landfill_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_rubble_landfill_t_connection_n",
+        "f_rubble_landfill_t_connection_w",
+        "f_rubble_landfill_t_connection_s",
+        "f_rubble_landfill_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_rubble_landfill_edge_ns",
+        "f_rubble_landfill_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_rubble_landfill_end_piece_n",
+        "f_rubble_landfill_end_piece_w",
+        "f_rubble_landfill_end_piece_s",
+        "f_rubble_landfill_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_rubble_landfill_unconnected"
+    }
+  ]
+}

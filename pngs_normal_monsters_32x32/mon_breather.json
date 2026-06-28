@@ -1,0 +1,23 @@
+{
+  "id": "mon_breather",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_breather"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_1"
+    }
+  ],
+  "bg": "mon_opossum_bg",
+  "animated": true
+}

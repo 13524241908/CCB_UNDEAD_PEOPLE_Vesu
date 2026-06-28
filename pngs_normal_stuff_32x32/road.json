@@ -1,0 +1,54 @@
+{
+  "id": [
+    "road",
+    "generic_road",
+    "generic_mall_road",
+    "generic_necropolis_road"
+  ],
+  "fg": "road",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "hw_diamond_interchange_2_0"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "hw_diamond_interchange_2_-2_3",
+        "hw_diamond_interchange_2_-2",
+        "hw_diamond_interchange_2_-2_1",
+        "hw_diamond_interchange_2_-2_2"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "hw_diamond_interchange_2_-1_1",
+        "hw_diamond_interchange_2_-1_2",
+        "hw_diamond_interchange_2_-1_3",
+        "hw_diamond_interchange_2_-1"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "LIXA_road",
+        "mil_base_5f"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "road_end_piece_n",
+        "mil_base_7j",
+        "road_end_piece_s",
+        "road_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "road"
+    }
+  ]
+}

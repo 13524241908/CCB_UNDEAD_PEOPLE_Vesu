@@ -1,0 +1,6 @@
+{
+  "id": "plastic_straw",
+  "fg": "overlay_wielded_plastic_straw",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

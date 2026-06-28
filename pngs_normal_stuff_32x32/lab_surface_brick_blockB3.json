@@ -1,0 +1,10 @@
+{
+  "id": "lab_surface_brick_blockB3",
+  "fg": [
+    "lab_surface_brick_blockB3",
+    "lab_surface_brick_blockB3_1",
+    "lab_surface_brick_blockB3_2",
+    "lab_surface_brick_blockB3_3"
+  ],
+  "rotates": true
+}

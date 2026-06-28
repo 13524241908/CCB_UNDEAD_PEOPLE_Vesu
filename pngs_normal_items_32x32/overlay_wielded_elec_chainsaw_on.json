@@ -1,0 +1,14 @@
+{
+  "id": "overlay_wielded_elec_chainsaw_on",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_elec_chainsaw_on"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_elec_chainsaw_on_1"
+    }
+  ],
+  "animated": true
+}

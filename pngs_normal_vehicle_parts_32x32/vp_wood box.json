@@ -1,0 +1,12 @@
+{
+  "id": "vp_wood box",
+  "fg": "vp_wood box",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_wood box_broken"
+    }
+  ]
+}

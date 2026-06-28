@@ -1,0 +1,6 @@
+{
+  "id": "oxygen_tank",
+  "fg": "overlay_wielded_oxygen_tank",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

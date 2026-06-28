@@ -1,0 +1,26 @@
+{
+  "id": "t_sand_scarlet",
+  "fg": [
+    {
+      "weight": 24,
+      "sprite": "scarlet_sea_xedra_hew"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_1"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_2"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_3"
+    },
+    {
+      "weight": 4,
+      "sprite": "t_sand_scarlet_4"
+    }
+  ],
+  "rotates": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mon_zombie_rot_fungalize",
+  "fg": "mon_zombie_rot_fungalize",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

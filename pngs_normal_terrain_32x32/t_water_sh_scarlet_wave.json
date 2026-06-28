@@ -1,0 +1,376 @@
+{
+  "id": "t_water_sh_scarlet_wave",
+  "fg": "t_water_sh_scarlet",
+  "bg": [
+    {
+      "weight": 24,
+      "sprite": "scarlet_sea_xedra_hew"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_1"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_2"
+    },
+    {
+      "weight": 24,
+      "sprite": "t_sand_scarlet_3"
+    },
+    {
+      "weight": 4,
+      "sprite": "t_sand_scarlet_4"
+    }
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "scarlet_sea_reverberation_8"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_corner_nw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_corner_ne"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_corner_se"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_corner_sw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_8"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_sh_scarlet_t_connection_n",
+        "t_water_sh_scarlet_t_connection_e",
+        "t_water_sh_scarlet_t_connection_s",
+        "t_water_sh_scarlet_t_connection_w"
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_edge_ns"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_edge_ew"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_9"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_11"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_13"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_15"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_17"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_end_piece_n"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_end_piece_e"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_end_piece_s"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_end_piece_w"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_10"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_12"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_14"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_16"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_18"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_19"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_21"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_23"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_25"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_27"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_29"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_sh_scarlet_31"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 24,
+          "sprite": "scarlet_sea_xedra_hew"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_1"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_2"
+        },
+        {
+          "weight": 24,
+          "sprite": "t_sand_scarlet_3"
+        },
+        {
+          "weight": 4,
+          "sprite": "t_sand_scarlet_4"
+        }
+      ]
+    }
+  ]
+}

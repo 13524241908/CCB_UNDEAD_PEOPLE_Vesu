@@ -1,0 +1,10 @@
+{
+  "id": "mi-go_camp2",
+  "fg": [
+    "mi-go_camp1_2",
+    "mi-go_camp1_3",
+    "mi-go_camp1",
+    "mi-go_camp1_1"
+  ],
+  "rotates": true
+}

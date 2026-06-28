@@ -1,0 +1,20 @@
+{
+  "id": "mon_zombie_blank",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_blank"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_blank_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_blank_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true,
+  "rotates": false
+}

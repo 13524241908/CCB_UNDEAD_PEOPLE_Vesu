@@ -1,0 +1,16 @@
+{
+  "id": [
+    "stadium_football_1_2_1",
+    "stadium_football_1_2_2",
+    "stadium_football_1_2_3",
+    "stadium_football_1_3_1",
+    "stadium_football_1_3_2",
+    "stadium_football_1_3_3",
+    "stadium_football_1_4_1",
+    "stadium_football_1_4_2",
+    "stadium_football_1_4_3"
+  ],
+  "fg": "stadium_0_2_1",
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

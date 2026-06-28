@@ -1,0 +1,24 @@
+{
+  "id": "mon_zombie_pupa",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_medical_pupa"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_medical_pupa_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_medical_pupa_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_medical_pupa_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": true
+}

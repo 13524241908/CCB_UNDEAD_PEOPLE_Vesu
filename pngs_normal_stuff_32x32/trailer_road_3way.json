@@ -1,0 +1,10 @@
+{
+  "id": "trailer_road_3way",
+  "fg": [
+    "trailer_road_3way",
+    "trailer_road_3way_1",
+    "trailer_road_3way_2",
+    "trailer_road_3way_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": [
+    "f_washer",
+    "ap_washing_machine"
+  ],
+  "rotates": true,
+  "fg": [
+    "f_washer",
+    "f_washer_1",
+    "f_washer_2",
+    "f_washer_3"
+  ]
+}

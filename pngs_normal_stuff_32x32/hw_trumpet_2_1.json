@@ -1,0 +1,32 @@
+{
+  "id": "hw_trumpet_2_1",
+  "fg": [
+    "hw_trumpet_2_1",
+    "hw_trumpet_2_1_1",
+    "hw_trumpet_2_1_2",
+    "hw_trumpet_2_1_3"
+  ],
+  "bg": [
+    {
+      "weight": 3,
+      "sprite": "cabin_prepper_bg"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "LIXA_entry_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "farm_horse_greenhouse_bg"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_4"
+    }
+  ],
+  "rotates": true
+}

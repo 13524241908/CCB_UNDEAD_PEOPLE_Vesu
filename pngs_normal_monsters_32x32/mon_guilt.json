@@ -1,0 +1,40 @@
+{
+  "id": "mon_guilt",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_guilt"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_5"
+    }
+  ],
+  "bg": [
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_bg"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_bg_1"
+    }
+  ],
+  "animated": true
+}

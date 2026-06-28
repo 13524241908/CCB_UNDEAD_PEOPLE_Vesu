@@ -1,0 +1,18 @@
+{
+  "id": "forest_water",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "forest_water"
+    },
+    {
+      "weight": 3,
+      "sprite": "forest_water_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "forest_water_2"
+    }
+  ],
+  "rotates": false
+}

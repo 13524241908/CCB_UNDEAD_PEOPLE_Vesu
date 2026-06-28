@@ -1,0 +1,9 @@
+{
+  "id": [
+    "lab_2x2_cargo_NE",
+    "lab_2x2_cargo_SE",
+    "lab_2x2_cargo_SW",
+    "lab_2x2_cargo_NW"
+  ],
+  "fg": "lab_2x2_cargo_NE"
+}

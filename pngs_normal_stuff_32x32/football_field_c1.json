@@ -1,0 +1,10 @@
+{
+  "id": "football_field_c1",
+  "fg": [
+    "football_field_a1_3",
+    "football_field_a1",
+    "football_field_a1_1",
+    "football_field_a1_2"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": "t_laminated_glass",
+  "fg": [
+    {
+      "weight": 1000,
+      "sprite": "t_laminated_glass"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_laminated_glass_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_laminated_glass_2"
+    }
+  ],
+  "bg": "t_ballistic_door_glass_c_bg",
+  "rotates": false
+}

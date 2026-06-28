@@ -1,0 +1,26 @@
+{
+  "id": "mon_amigara_horror",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_zombie_psi_void"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_zombie_psi_void_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_zombie_psi_void_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_zombie_psi_void_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_zombie_psi_void_4"
+    }
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": [
+    "mre_bag_small",
+    "mre_bag_dessert",
+    "mre_bag_jam"
+  ],
+  "fg": "mre_bag_small",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

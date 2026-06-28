@@ -1,0 +1,23 @@
+{
+  "id": "house_fungus_roof_01",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "house_01_roof"
+    },
+    {
+      "weight": 25,
+      "sprite": "house_01_roof_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "house_01_roof_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "house_01_roof_3"
+    }
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

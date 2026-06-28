@@ -1,0 +1,32 @@
+{
+  "id": [
+    "cabin_roof",
+    "cabin_roof_1",
+    "cabin_roof_2",
+    "cabin_roof_3",
+    "cabin_roof_4",
+    "cabin_roof_5",
+    "cabin_roof_6",
+    "cabin_roof_7",
+    "cabin_lake_roof",
+    "house_farm_roof",
+    "sugar_house_roof",
+    "farm_2_roof",
+    "farm_1_apiary_roof",
+    "hunter_shack_roof",
+    "hunter_shack_roof_1",
+    "orchard_stall_roof",
+    "orchard_processing_roof",
+    "cabin_strange_roof",
+    "riverside_dawelling_roof",
+    "riverside_dawelling1_roof",
+    "farm_stells_3_2nd",
+    "farm_stells_7_roof",
+    "farm_stells_3_roof",
+    "2farm_roof_11",
+    "lake_cabin_boathouse_roof"
+  ],
+  "fg": "bandit_cabin_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

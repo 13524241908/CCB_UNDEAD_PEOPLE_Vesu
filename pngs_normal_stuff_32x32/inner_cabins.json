@@ -1,0 +1,26 @@
+{
+  "id": "inner_cabins",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "ravine_floor"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_floor_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_floor_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_floor_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_floor_4"
+    }
+  ],
+  "rotates": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "f_fungal_clump",
+  "fg": "f_fungal_clump",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_fungal_clump_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_fungal_clump_corner_nw",
+        "f_fungal_clump_corner_ne",
+        "f_fungal_clump_corner_se",
+        "f_fungal_clump_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_fungal_clump_t_connection_n",
+        "f_fungal_clump_t_connection_e",
+        "f_fungal_clump_t_connection_s",
+        "f_fungal_clump_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_fungal_clump_edge_ns",
+        "f_fungal_clump_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_fungal_clump_end_piece_n",
+        "f_fungal_clump_end_piece_e",
+        "f_fungal_clump_end_piece_s",
+        "f_fungal_clump_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_fungal_clump_unconnected"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "t_palisade_gate",
+  "fg": "t_palisade_gate",
+  "bg": "bg_dirt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "t_palisade_gate_edge_ns",
+        "t_palisade_gate_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_palisade_gate_end_piece_n",
+        "t_palisade_gate_end_piece_e",
+        "t_palisade_gate_end_piece_s",
+        "t_palisade_gate_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_palisade_gate_t_connection_n",
+        "t_palisade_gate_t_connection_e",
+        "t_palisade_gate_t_connection_s",
+        "t_palisade_gate_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_palisade_gate_unconnected",
+      "bg": "bg_dirt"
+    }
+  ]
+}

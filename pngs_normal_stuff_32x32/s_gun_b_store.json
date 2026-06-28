@@ -1,0 +1,10 @@
+{
+  "id": "s_gun_b_store",
+  "fg": [
+    "s_gun_b_store",
+    "s_gun_b_store_1",
+    "s_gun_b_store_2",
+    "s_gun_b_store_3"
+  ],
+  "rotates": true
+}

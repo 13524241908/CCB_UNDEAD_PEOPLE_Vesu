@@ -1,0 +1,8 @@
+{
+  "id": [
+    "corpse_mon_flaming_eye",
+    "corpse_mon_staring_eye"
+  ],
+  "fg": "corpse_mon_flaming_eye",
+  "rotates": false
+}

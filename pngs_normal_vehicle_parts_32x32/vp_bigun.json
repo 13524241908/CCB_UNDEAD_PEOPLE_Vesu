@@ -1,0 +1,12 @@
+{
+  "id": "vp_bigun",
+  "fg": "vp_bigun",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_bigun_broken"
+    }
+  ]
+}

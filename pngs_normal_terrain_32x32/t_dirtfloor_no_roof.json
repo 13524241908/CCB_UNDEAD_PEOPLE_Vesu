@@ -1,0 +1,22 @@
+{
+  "id": "t_dirtfloor_no_roof",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "t_dirtfloor_no_roof"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirtfloor_no_roof_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirtfloor_no_roof_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirtfloor_no_roof_3"
+    }
+  ],
+  "rotates": false
+}

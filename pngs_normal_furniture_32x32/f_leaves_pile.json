@@ -1,0 +1,50 @@
+{
+  "id": "f_leaves_pile",
+  "fg": "f_leaves_pile",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_leaves_pile_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_leaves_pile_corner_nw",
+        "f_leaves_pile_corner_ne",
+        "f_leaves_pile_corner_se",
+        "f_leaves_pile_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_leaves_pile_t_connection_n",
+        "f_leaves_pile_t_connection_e",
+        "f_leaves_pile_t_connection_s",
+        "f_leaves_pile_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_leaves_pile_edge_ns",
+        "f_leaves_pile_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_leaves_pile_end_piece_n",
+        "f_leaves_pile_end_piece_e",
+        "f_leaves_pile_end_piece_s",
+        "f_leaves_pile_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_leaves_pile_unconnected"
+    }
+  ]
+}

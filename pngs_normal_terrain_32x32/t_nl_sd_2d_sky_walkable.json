@@ -1,0 +1,50 @@
+{
+  "id": "t_nl_sd_2d_sky_walkable",
+  "fg": "t_nl_sd_2d_ground",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_nl_sd_2d_ground"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nl_sd_2d_ground_corner_nw",
+        "t_nl_sd_2d_ground_corner_ne",
+        "t_nl_sd_2d_ground_corner_se",
+        "t_nl_sd_2d_ground_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nl_sd_2d_sky_walkable_t_connection_n",
+        "t_nl_sd_2d_sky_walkable_t_connection_e",
+        "t_nl_sd_2d_sky_walkable_t_connection_s",
+        "t_nl_sd_2d_ground_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_nl_sd_2d_ground_edge_ns",
+        "t_nl_sd_2d_sky_walkable_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nl_sd_2d_ground_end_piece_n",
+        "t_nl_sd_2d_sky_walkable_end_piece_e",
+        "t_nl_sd_2d_ground_end_piece_s",
+        "t_nl_sd_2d_sky_walkable_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_nl_sd_2d_sky_walkable_edge_ew"
+    }
+  ]
+}

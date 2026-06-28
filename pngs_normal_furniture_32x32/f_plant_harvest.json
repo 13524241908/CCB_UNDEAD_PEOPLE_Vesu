@@ -1,0 +1,53 @@
+{
+  "id": "f_plant_harvest",
+  "fg": "f_plant_harvest",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_plant_harvest_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_plant_harvest_corner_nw",
+        "f_plant_harvest_corner_ne",
+        "f_plant_harvest_corner_se",
+        "f_plant_harvest_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_plant_harvest_t_connection_n",
+        "f_plant_harvest_t_connection_e",
+        "f_plant_harvest_t_connection_s",
+        "f_plant_harvest_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_plant_harvest_edge_ns",
+        "f_plant_harvest_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_plant_harvest_end_piece_n",
+        "f_plant_harvest_end_piece_e",
+        "f_plant_harvest_end_piece_s",
+        "f_plant_harvest_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_plant_harvest_unconnected",
+        "f_plant_harvest_unconnected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "horse_farm_isherwood_13_roof",
+    "horse_farm_isherwood_13_2ndfloor"
+  ],
+  "fg": "bandit_cabin_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

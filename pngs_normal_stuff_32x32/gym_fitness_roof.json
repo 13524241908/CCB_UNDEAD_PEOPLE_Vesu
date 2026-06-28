@@ -1,0 +1,10 @@
+{
+  "id": [
+    "gym_fitness_roof",
+    "gym_fitness_2ndFloor_1",
+    "gym_fitness_roof_1"
+  ],
+  "fg": "gym_fitness_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

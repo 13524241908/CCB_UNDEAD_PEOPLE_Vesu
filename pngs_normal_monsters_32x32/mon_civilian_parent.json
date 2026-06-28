@@ -1,0 +1,40 @@
+{
+  "id": "mon_civilian_parent",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_robofac_chop_shop_7"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

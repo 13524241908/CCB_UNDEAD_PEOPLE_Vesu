@@ -1,0 +1,10 @@
+{
+  "id": [
+    "cathedral_1_NW",
+    "cathedral_1_NE",
+    "cathedral_1_SW",
+    "cathedral_1_SE"
+  ],
+  "fg": "cathedral_1_NW",
+  "rotates": false
+}

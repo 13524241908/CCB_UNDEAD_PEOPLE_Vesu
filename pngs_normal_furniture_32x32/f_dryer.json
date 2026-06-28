@@ -1,0 +1,10 @@
+{
+  "id": "f_dryer",
+  "rotates": true,
+  "fg": [
+    "f_dryer",
+    "f_dryer_1",
+    "f_dryer_2",
+    "f_dryer_3"
+  ]
+}

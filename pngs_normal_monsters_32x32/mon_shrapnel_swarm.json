@@ -1,0 +1,15 @@
+{
+  "id": "mon_shrapnel_swarm",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_shrapnel_swarm"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_shrapnel_swarm_1"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

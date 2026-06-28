@@ -1,0 +1,10 @@
+{
+  "id": "trailer_road_1parkway",
+  "fg": [
+    "trailer_road_1parkway",
+    "trailer_road_1parkway_1",
+    "trailer_road_1parkway_2",
+    "trailer_road_1parkway_3"
+  ],
+  "rotates": true
+}

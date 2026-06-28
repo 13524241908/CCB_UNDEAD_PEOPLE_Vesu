@@ -1,0 +1,50 @@
+{
+  "id": "f_swamp_gas",
+  "fg": "f_swamp_gas",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_swamp_gas_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_swamp_gas_corner_nw",
+        "f_swamp_gas_corner_ne",
+        "f_swamp_gas_corner_se",
+        "f_swamp_gas_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_swamp_gas_t_connection_n",
+        "f_swamp_gas_t_connection_e",
+        "f_swamp_gas_t_connection_s",
+        "f_swamp_gas_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_swamp_gas_edge_ns",
+        "f_swamp_gas_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_swamp_gas_end_piece_n",
+        "f_swamp_gas_end_piece_e",
+        "f_swamp_gas_end_piece_s",
+        "f_swamp_gas_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_swamp_gas_unconnected"
+    }
+  ]
+}

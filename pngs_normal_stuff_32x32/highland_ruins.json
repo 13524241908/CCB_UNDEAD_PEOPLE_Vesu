@@ -1,0 +1,27 @@
+{
+  "id": "highland_ruins",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "highland_ruins"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_4"
+    }
+  ],
+  "bg": "conquerors_road_bg",
+  "rotates": false
+}

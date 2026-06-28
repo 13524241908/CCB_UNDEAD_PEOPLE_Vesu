@@ -1,0 +1,10 @@
+{
+  "id": "balthazar_bunker_01",
+  "fg": [
+    "balthazar_bunker_01",
+    "balthazar_bunker_01_1",
+    "balthazar_bunker_01_2",
+    "balthazar_bunker_01_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": [
+    "mil_base_2a",
+    "mil_base_3a"
+  ],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mil_base_2a"
+    },
+    {
+      "weight": 25,
+      "sprite": "mil_base_2a_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mil_base_2a_2"
+    }
+  ],
+  "rotates": true
+}

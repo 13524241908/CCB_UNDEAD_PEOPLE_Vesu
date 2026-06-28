@@ -1,0 +1,10 @@
+{
+  "id": "mine_shaft_lower_east",
+  "fg": [
+    "mine_shaft_lower_east",
+    "mine_shaft_lower_east_1",
+    "mine_shaft_lower_east_2",
+    "mine_shaft_lower_east_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "s_pharm_roof",
+    "s_pharm_roof_1"
+  ],
+  "fg": "s_pharm_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

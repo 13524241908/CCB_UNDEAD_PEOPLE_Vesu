@@ -1,0 +1,101 @@
+{
+  "id": "t_sewage",
+  "fg": "t_sewage",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 2000,
+          "sprite": "t_sewage_center"
+        },
+        {
+          "weight": 16,
+          "sprite": "t_sewage_1"
+        },
+        {
+          "weight": 150,
+          "sprite": "t_sewage_2"
+        },
+        {
+          "weight": 140,
+          "sprite": "t_sewage_3"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_4"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_5"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_6"
+        },
+        {
+          "weight": 5,
+          "sprite": "t_sewage_7"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_8"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_sewage_9"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_sewage_10"
+        }
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_sewage_corner_nw",
+        "t_sewage_corner_ne",
+        "t_sewage_corner_se",
+        "t_sewage_corner_sw"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_sewage_t_connection_n",
+        "t_sewage_t_connection_e",
+        "t_sewage_t_connection_s",
+        "t_sewage_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_sewage_edge_ns",
+        "t_sewage_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_sewage_end_piece_n",
+        "t_sewage_end_piece_e",
+        "t_sewage_end_piece_s",
+        "t_sewage_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_sewage_unconnected",
+      "bg": "bg_dirt"
+    }
+  ]
+}

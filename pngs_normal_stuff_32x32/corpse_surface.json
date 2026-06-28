@@ -1,0 +1,8 @@
+{
+  "id": [
+    "corpse_surface",
+    "corpse_tentacle_surface_entry"
+  ],
+  "fg": "corpse_surface",
+  "rotates": false
+}

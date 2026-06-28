@@ -1,0 +1,56 @@
+{
+  "id": "t_chainfence",
+  "fg": "t_chainfence",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_chainfence_center",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_chainfence_corner_nw",
+        "t_chainfence_corner_ne",
+        "t_chainfence_corner_se",
+        "t_chainfence_corner_sw"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_chainfence_t_connection_n",
+        "t_chainfence_t_connection_e",
+        "t_chainfence_t_connection_s",
+        "t_chainfence_t_connection_w"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_chainfence_edge_ns",
+        "t_chainfence_edge_ew"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_chainfence_end_piece_n",
+        "t_chainfence_end_piece_e",
+        "t_chainfence_end_piece_s",
+        "t_chainfence_end_piece_w"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_chainfence_unconnected",
+      "bg": "bg_pavement"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_teardrop",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_teardrop"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

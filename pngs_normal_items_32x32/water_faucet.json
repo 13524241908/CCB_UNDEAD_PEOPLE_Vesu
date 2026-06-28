@@ -1,0 +1,6 @@
+{
+  "id": "water_faucet",
+  "fg": "overlay_wielded_water_faucet",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

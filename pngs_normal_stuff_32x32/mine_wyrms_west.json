@@ -1,0 +1,10 @@
+{
+  "id": "mine_wyrms_west",
+  "fg": [
+    "mine_wyrms_west",
+    "mine_wyrms_west_1",
+    "mine_wyrms_west_2",
+    "mine_wyrms_west_3"
+  ],
+  "rotates": true
+}

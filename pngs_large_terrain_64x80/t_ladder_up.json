@@ -1,0 +1,16 @@
+{
+  "id": "t_ladder_up",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_ladder_up"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_ladder_up_1"
+    }
+  ],
+  "bg": "bg_big_pavement",
+  "rotates": false,
+  "animated": true
+}

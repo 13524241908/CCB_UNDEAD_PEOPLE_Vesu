@@ -1,0 +1,10 @@
+{
+  "id": "cs_public_space",
+  "fg": [
+    "cs_public_space",
+    "cs_public_space_1",
+    "cs_public_space_2",
+    "cs_public_space_3"
+  ],
+  "rotates": true
+}

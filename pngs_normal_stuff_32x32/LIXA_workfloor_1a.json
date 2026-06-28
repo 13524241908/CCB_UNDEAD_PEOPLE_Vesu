@@ -1,0 +1,15 @@
+{
+  "id": [
+    "LIXA_workfloor_1a",
+    "LIXA_workfloor_1b",
+    "LIXA_workfloor_2a",
+    "LIXA_workfloor_2b",
+    "LIXA_device_1",
+    "LIXA_device_2",
+    "LIXA_device_3",
+    "LIXA_device_2_roof",
+    "LIXA_device_3_roof"
+  ],
+  "fg": "LIXA_workfloor_1a",
+  "rotates": false
+}

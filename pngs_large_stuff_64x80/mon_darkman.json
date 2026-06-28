@@ -1,0 +1,27 @@
+{
+  "id": "mon_darkman",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_darkman"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_darkman_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_darkman_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_darkman_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_darkman_4"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

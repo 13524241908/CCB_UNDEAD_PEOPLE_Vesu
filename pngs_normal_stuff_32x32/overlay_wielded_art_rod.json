@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_rod",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_rod"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_rod_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_rod_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

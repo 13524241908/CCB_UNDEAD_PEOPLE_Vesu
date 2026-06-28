@@ -1,0 +1,20 @@
+{
+  "id": "art_dagger",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_dagger"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_dagger_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_dagger_2"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true,
+  "rotates": false
+}

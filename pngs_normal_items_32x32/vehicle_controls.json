@@ -1,0 +1,6 @@
+{
+  "id": "vehicle_controls",
+  "fg": "overlay_wielded_vehicle_controls",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "s_gun_b_range",
+  "fg": [
+    "s_gun_b_range",
+    "s_gun_b_range_1",
+    "s_gun_b_range_2",
+    "s_gun_b_range_3"
+  ],
+  "rotates": true
+}

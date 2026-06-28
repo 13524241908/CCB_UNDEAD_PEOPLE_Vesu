@@ -1,0 +1,20 @@
+{
+  "id": "mon_zombie_nullpsi",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullpsi"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullpsi_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullpsi_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true,
+  "rotates": false
+}

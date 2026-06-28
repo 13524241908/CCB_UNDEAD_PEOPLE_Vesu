@@ -1,0 +1,10 @@
+{
+  "id": [
+    "vp_ap_diesel_generator",
+    "ap_diesel_generator",
+    "diesel_generator",
+    "f_diesel_generator"
+  ],
+  "fg": "vp_ap_diesel_generator",
+  "rotates": false
+}

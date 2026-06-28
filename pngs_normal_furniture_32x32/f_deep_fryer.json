@@ -1,0 +1,63 @@
+{
+  "id": [
+    "f_deep_fryer",
+    "ap_deep_fryer"
+  ],
+  "fg": "f_deep_fryer",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_deep_fryer"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_deep_fryer",
+        "f_deep_fryer",
+        "f_deep_fryer",
+        "f_deep_fryer"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e",
+        "f_deep_fryer",
+        "f_deep_fryer_t_connection_e"
+      ]
+    }
+  ]
+}

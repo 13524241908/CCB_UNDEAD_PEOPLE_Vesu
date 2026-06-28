@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_spiral",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_spiral"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

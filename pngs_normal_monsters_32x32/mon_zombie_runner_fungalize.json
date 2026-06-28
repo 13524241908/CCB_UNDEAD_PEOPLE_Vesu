@@ -1,0 +1,27 @@
+{
+  "id": "mon_zombie_runner_fungalize",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_fungalize"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_fungalize_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_fungalize_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_fungalize_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_fungalize_4"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

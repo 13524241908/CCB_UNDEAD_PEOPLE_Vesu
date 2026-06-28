@@ -1,0 +1,15 @@
+{
+  "id": "mon_mutant_evolved",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_evolved"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_mutant_evolved_1"
+    }
+  ],
+  "bg": "mon_zombie_inner_cabins_grue_bg",
+  "rotates": false
+}

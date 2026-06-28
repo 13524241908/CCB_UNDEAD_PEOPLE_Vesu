@@ -1,0 +1,32 @@
+{
+  "id": "t_border_rock",
+  "fg": "t_border_rock",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_border_rock_center"
+    },
+    {
+      "id": "corner",
+      "fg": "t_border_rock_corner_nw"
+    },
+    {
+      "id": "edge",
+      "fg": "t_border_rock_edge_ns"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_border_rock_end_piece_n"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_border_rock_t_connection_n"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_border_rock_unconnected"
+    }
+  ]
+}

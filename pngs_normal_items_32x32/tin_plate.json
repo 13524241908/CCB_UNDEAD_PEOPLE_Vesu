@@ -1,0 +1,6 @@
+{
+  "id": "tin_plate",
+  "fg": "overlay_wielded_tin_plate",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

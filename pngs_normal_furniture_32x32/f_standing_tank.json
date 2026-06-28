@@ -1,0 +1,11 @@
+{
+  "id": "f_standing_tank",
+  "fg": [
+    "f_standing_tank",
+    "f_standing_tank_1",
+    "f_standing_tank_2",
+    "f_standing_tank_3"
+  ],
+  "bg": "bg_shadow_normal_furniture",
+  "rotates": true
+}

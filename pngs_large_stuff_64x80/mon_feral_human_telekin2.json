@@ -1,0 +1,31 @@
+{
+  "id": "mon_feral_human_telekin2",
+  "fg": [
+    {
+      "weight": 20,
+      "sprite": "mon_feral_human_telekin2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_telekin2_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_telekin2_2"
+    },
+    {
+      "weight": 20,
+      "sprite": "mon_feral_human_telekin2_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_telekin2_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_telekin2_1"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "t_railroad_track_small",
+  "fg": "lab_subway",
+  "bg": [
+    "lab_subway_bg",
+    "bg_gravel"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "lab_subway_center",
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "lab_subway_corner_nw",
+        "lab_subway_corner_sw",
+        "lab_subway_corner_se",
+        "lab_subway_corner_ne"
+      ],
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "lab_subway_t_connection_n",
+        "lab_subway_t_connection_w",
+        "lab_subway_t_connection_s",
+        "lab_subway_t_connection_e"
+      ],
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "lab_subway_edge_ns",
+        "lab_subway_edge_ew"
+      ],
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "lab_subway_end_piece_n",
+        "lab_subway_end_piece_w",
+        "lab_subway_end_piece_s",
+        "lab_subway_end_piece_e"
+      ],
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "lab_subway_unconnected",
+      "bg": [
+        "lab_subway_bg",
+        "bg_gravel"
+      ]
+    }
+  ]
+}

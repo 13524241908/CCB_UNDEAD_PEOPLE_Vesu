@@ -1,0 +1,14 @@
+{
+  "id": "f_shower",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "f_shower"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_shower_1"
+    }
+  ],
+  "rotates": false
+}

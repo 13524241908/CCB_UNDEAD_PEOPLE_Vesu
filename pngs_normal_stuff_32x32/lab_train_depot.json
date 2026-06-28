@@ -1,0 +1,11 @@
+{
+  "id": [
+    "lab_train_depot",
+    "microlab_generic_sub_entry",
+    "microlab_sub_station",
+    "microlab_ratkin_sub_entry",
+    "microlab_sub_station_ratkin"
+  ],
+  "fg": "lab_train_depot",
+  "rotates": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mon_feral_fancy_crossbow",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_fancy_crossbow"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_fancy_crossbow_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_fancy_crossbow_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

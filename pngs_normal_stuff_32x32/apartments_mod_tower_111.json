@@ -1,0 +1,15 @@
+{
+  "id": [
+    "apartments_mod_tower_111",
+    "apartments_mod_tower_112",
+    "apartments_mod_tower_113"
+  ],
+  "fg": [
+    "apartments_mod_tower_111",
+    "apartments_mod_tower_111_1",
+    "apartments_mod_tower_111_2",
+    "apartments_mod_tower_111_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mon_irradiated_wanderer_2",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_2_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_2_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_2_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

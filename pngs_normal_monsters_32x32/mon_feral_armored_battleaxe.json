@@ -1,0 +1,16 @@
+{
+  "id": "mon_feral_armored_battleaxe",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_armored_battleaxe"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_armored_battleaxe_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

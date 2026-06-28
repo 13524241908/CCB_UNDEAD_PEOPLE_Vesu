@@ -1,0 +1,6 @@
+{
+  "id": "pills_sleep",
+  "fg": "overlay_wielded_pills_sleep",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

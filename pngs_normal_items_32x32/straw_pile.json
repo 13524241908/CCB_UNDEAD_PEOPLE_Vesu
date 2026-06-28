@@ -1,0 +1,6 @@
+{
+  "id": "straw_pile",
+  "fg": "overlay_wielded_straw_pile",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

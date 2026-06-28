@@ -1,0 +1,12 @@
+{
+  "id": "vp_longrifle_flintlock",
+  "fg": "vp_longrifle_flintlock",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_longrifle_flintlock_broken"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mon_feral_jackboot",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_jackboot"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_jackboot_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_jackboot_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

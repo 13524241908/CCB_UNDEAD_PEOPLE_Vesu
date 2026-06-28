@@ -1,0 +1,19 @@
+{
+  "id": "art_crystal",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_crystal"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_crystal_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_crystal_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

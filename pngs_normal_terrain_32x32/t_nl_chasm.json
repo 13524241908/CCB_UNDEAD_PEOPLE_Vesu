@@ -1,0 +1,203 @@
+{
+  "id": [
+    "t_nl_chasm",
+    "t_nl_chasm_no_trap"
+  ],
+  "fg": "labyrinth_string_dimension_tunnel_start",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nl_chasm_corner_nw",
+        "t_nl_chasm_corner_ne",
+        "labyrinth_string_dimension_tunnel_start_2",
+        "labyrinth_string_dimension_tunnel_start_3"
+      ],
+      "bg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nl_chasm_corner_nw",
+        "labyrinth_string_dimension_tunnel_start_1",
+        "labyrinth_string_dimension_tunnel_start_2",
+        "labyrinth_string_dimension_tunnel_start_3"
+      ],
+      "bg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "labyrinth_string_dimension_tunnel_start",
+        "t_nl_chasm_corner_nw",
+        "labyrinth_string_dimension_tunnel_start_2",
+        "t_nl_chasm_3"
+      ],
+      "bg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nl_chasm_corner_nw",
+        "t_nl_chasm_end_piece_e",
+        "labyrinth_string_dimension_tunnel_start_2",
+        "t_nl_chasm_3"
+      ],
+      "bg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 100,
+          "sprite": "t_nl_chasm_corner_nw"
+        },
+        {
+          "weight": 100,
+          "sprite": "t_nl_chasm_end_piece_e"
+        },
+        {
+          "weight": 100,
+          "sprite": "t_nl_chasm_corner_ne"
+        },
+        {
+          "weight": 100,
+          "sprite": "t_nl_chasm_3"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_1"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_2"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_3"
+        },
+        {
+          "weight": 100,
+          "sprite": "labyrinth_string_dimension_tunnel_start_4"
+        }
+      ]
+    }
+  ]
+}

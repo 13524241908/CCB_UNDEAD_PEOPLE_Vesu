@@ -1,0 +1,11 @@
+{
+  "id": "s_gun_b_roof",
+  "fg": [
+    "s_gun_b_roof",
+    "s_gun_b_roof_1",
+    "s_gun_b_roof_2",
+    "s_gun_b_roof_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

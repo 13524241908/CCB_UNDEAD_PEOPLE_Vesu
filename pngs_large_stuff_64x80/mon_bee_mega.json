@@ -1,0 +1,14 @@
+{
+  "id": "mon_bee_mega",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_bee_mega"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_bee_mega_1"
+    }
+  ],
+  "animated": true
+}

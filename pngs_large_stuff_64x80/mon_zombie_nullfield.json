@@ -1,0 +1,32 @@
+{
+  "id": "mon_zombie_nullfield",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nullfield_5"
+    }
+  ],
+  "bg": "mon_spawn_raptor_dusted_bg",
+  "animated": true,
+  "rotates": false
+}

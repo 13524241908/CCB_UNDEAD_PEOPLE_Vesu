@@ -1,0 +1,10 @@
+{
+  "id": [
+    "s_petstore_roof",
+    "s_petstore_roof_1",
+    "s_petstore_roof_2"
+  ],
+  "fg": "s_petstore_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

@@ -1,0 +1,417 @@
+{
+  "id": "t_grass_long_season_summer",
+  "fg": "t_grass_long_season_summer",
+  "bg": [
+    {
+      "weight": 40,
+      "sprite": "bg_dirt"
+    },
+    {
+      "weight": 30,
+      "sprite": "bg_t_dirt2"
+    },
+    {
+      "weight": 30,
+      "sprite": "bg_t_dirt3"
+    },
+    {
+      "weight": 30,
+      "sprite": "bg_t_dirt4"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt5"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt6"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt7"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt8"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt9"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt10"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt11"
+    },
+    {
+      "weight": 1,
+      "sprite": "bg_t_dirt12"
+    }
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_grass_long_season_summer_center",
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_grass_long_season_summer_corner_nw",
+        "t_grass_long_season_summer_corner_ne",
+        "t_grass_long_season_summer_corner_se",
+        "t_grass_long_season_summer_corner_sw"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_grass_long_season_summer_t_connection_n",
+        "t_grass_long_season_summer_t_connection_e",
+        "t_grass_long_season_summer_t_connection_s",
+        "t_grass_long_season_summer_t_connection_w"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_grass_long_season_summer_edge_ns",
+        "t_grass_long_season_summer_edge_ew"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_grass_long_season_summer_end_piece_n",
+        "t_grass_long_season_summer_end_piece_e",
+        "t_grass_long_season_summer_end_piece_s",
+        "t_grass_long_season_summer_end_piece_w"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_season_summer_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_season_summer_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_season_summer_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_season_summer_3"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    }
+  ]
+}

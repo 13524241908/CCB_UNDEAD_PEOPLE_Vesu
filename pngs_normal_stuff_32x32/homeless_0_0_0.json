@@ -1,0 +1,14 @@
+{
+  "id": [
+    "homeless_0_0_0",
+    "homeless_0_0_1",
+    "homeless_0_0_2"
+  ],
+  "fg": [
+    "homeless_0_0_0",
+    "homeless_0_0_0_1",
+    "homeless_0_0_0_2",
+    "homeless_0_0_0_3"
+  ],
+  "rotates": true
+}

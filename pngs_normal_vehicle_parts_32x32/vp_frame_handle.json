@@ -1,0 +1,22 @@
+{
+  "id": "vp_frame_handle",
+  "fg": [
+    "vp_frame_handle",
+    "vp_frame_handle_1",
+    "vp_frame_handle_2",
+    "vp_frame_handle_3"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_frame_handle_broken",
+        "vp_frame_handle_broken_1",
+        "vp_frame_handle_broken_2",
+        "vp_frame_handle_broken_3"
+      ]
+    }
+  ]
+}

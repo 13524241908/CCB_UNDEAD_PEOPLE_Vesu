@@ -1,0 +1,9 @@
+{
+  "id": [
+    "s_laundromat_roof",
+    "s_laundromat_roof_1"
+  ],
+  "fg": "s_laundromat_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

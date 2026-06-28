@@ -1,0 +1,78 @@
+{
+  "id": "t_scrap_wall_halfway",
+  "fg": "t_scrap_wall_halfway",
+  "bg": [
+    "t_carpet_base_metal_bg",
+    "t_secretdoor_metal_o"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_scrap_wall_halfway_center",
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_scrap_wall_halfway_corner_nw",
+        "t_scrap_wall_halfway_corner_ne",
+        "t_scrap_wall_halfway_corner_se",
+        "t_scrap_wall_halfway_corner_sw"
+      ],
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_scrap_wall_halfway_t_connection_n",
+        "t_scrap_wall_halfway_t_connection_e",
+        "t_scrap_wall_halfway_t_connection_s",
+        "t_scrap_wall_halfway_t_connection_w"
+      ],
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_scrap_wall_halfway_edge_ns",
+        "t_scrap_wall_halfway_edge_ew"
+      ],
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_scrap_wall_halfway_end_piece_n",
+        "t_scrap_wall_halfway_end_piece_e",
+        "t_scrap_wall_halfway_end_piece_s",
+        "t_scrap_wall_halfway_end_piece_w"
+      ],
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_scrap_wall_halfway_unconnected",
+      "bg": [
+        "t_carpet_base_metal_bg",
+        "t_secretdoor_metal_o"
+      ]
+    }
+  ]
+}

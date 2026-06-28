@@ -1,0 +1,6 @@
+{
+  "id": "receiver",
+  "fg": "overlay_wielded_receiver",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

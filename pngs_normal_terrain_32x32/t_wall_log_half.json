@@ -1,0 +1,32 @@
+{
+  "id": "t_wall_log_half",
+  "fg": "t_wall_log_half",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_wall_log_half_center"
+    },
+    {
+      "id": "corner",
+      "fg": "t_wall_log_half_corner_nw"
+    },
+    {
+      "id": "edge",
+      "fg": "t_wall_log_half_edge_ns"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_wall_log_half_end_piece_n"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_wall_log_half_t_connection_n"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_wall_log_half_unconnected"
+    }
+  ]
+}

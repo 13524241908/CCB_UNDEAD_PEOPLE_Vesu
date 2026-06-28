@@ -1,0 +1,32 @@
+{
+  "id": [
+    "stadium_football_2_1_1",
+    "stadium_football_2_1_2",
+    "stadium_football_2_1_3",
+    "stadium_football_2_1_4",
+    "stadium_football_2_1_5",
+    "stadium_football_3_1_1",
+    "stadium_football_3_1_2",
+    "stadium_football_3_1_3",
+    "stadium_football_3_1_4",
+    "stadium_football_3_1_5",
+    "stadium_football_4_1_1",
+    "stadium_football_4_1_2",
+    "stadium_football_4_1_3",
+    "stadium_football_4_1_4",
+    "stadium_football_4_1_5",
+    "stadium_football_5_1_1",
+    "stadium_football_5_1_2",
+    "stadium_football_5_1_3",
+    "stadium_football_5_1_4",
+    "stadium_football_5_1_5",
+    "stadium_football_6_1_1",
+    "stadium_football_6_1_2",
+    "stadium_football_6_1_3",
+    "stadium_football_6_1_4",
+    "stadium_football_6_1_5"
+  ],
+  "fg": "stadium_1_1_1",
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

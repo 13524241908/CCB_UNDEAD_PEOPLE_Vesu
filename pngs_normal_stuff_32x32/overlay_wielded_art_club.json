@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_club",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_club"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_club_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_club_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

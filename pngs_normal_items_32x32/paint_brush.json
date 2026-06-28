@@ -1,0 +1,6 @@
+{
+  "id": "paint_brush",
+  "fg": "overlay_wielded_paint_brush",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

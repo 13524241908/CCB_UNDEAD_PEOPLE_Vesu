@@ -1,0 +1,10 @@
+{
+  "id": "shotgun_trap",
+  "fg": "overlay_wielded_shotgun_trap",
+  "bg": [
+    "shotgun_trap_bg",
+    "overlay_wielded_rope_makeshift_6",
+    "shotgun_trap_bg_2",
+    "overlay_wielded_rope_6"
+  ]
+}

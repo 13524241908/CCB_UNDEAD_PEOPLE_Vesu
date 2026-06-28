@@ -1,0 +1,11 @@
+{
+  "id": "hw_trumpet_bridge_1_0",
+  "fg": [
+    "highway_ramp_up_0_3",
+    "highway_ramp_up_0",
+    "highway_ramp_up_0_1",
+    "highway_ramp_up_0_2"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

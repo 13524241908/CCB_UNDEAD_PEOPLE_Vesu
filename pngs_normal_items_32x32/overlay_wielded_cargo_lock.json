@@ -1,0 +1,5 @@
+{
+  "id": "overlay_wielded_cargo_lock",
+  "fg": "cargo_lock",
+  "rotates": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "t_triffid_slope_up",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_triffid_slope_up"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_triffid_slope_up_1"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

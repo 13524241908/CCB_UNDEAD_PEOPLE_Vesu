@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_mask",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_mask"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_mask_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_mask_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

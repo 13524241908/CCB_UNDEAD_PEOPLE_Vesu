@@ -1,0 +1,6 @@
+{
+  "id": "sleeping_bag",
+  "fg": "overlay_wielded_sleeping_bag",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mon_civilian_police_rifle",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_police_rifle"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_police_rifle_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_police_rifle_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_police_rifle_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tr_portal",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "tr_portal"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_portal_8"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true,
+  "rotates": false
+}

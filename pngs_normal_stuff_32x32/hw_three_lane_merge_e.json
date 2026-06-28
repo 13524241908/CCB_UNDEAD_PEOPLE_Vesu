@@ -1,0 +1,10 @@
+{
+  "id": "hw_three_lane_merge_e",
+  "fg": [
+    "highway_ramp_up_0_2",
+    "highway_ramp_up_0_3",
+    "highway_ramp_up_0",
+    "highway_ramp_up_0_1"
+  ],
+  "rotates": true
+}

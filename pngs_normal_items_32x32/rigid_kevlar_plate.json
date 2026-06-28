@@ -1,0 +1,6 @@
+{
+  "id": "rigid_kevlar_plate",
+  "fg": "overlay_wielded_rigid_kevlar_plate",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

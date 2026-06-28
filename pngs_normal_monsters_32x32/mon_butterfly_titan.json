@@ -1,0 +1,6 @@
+{
+  "id": "mon_butterfly_titan",
+  "fg": "mon_butterfly_giant",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

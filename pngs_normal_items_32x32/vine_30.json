@@ -1,0 +1,8 @@
+{
+  "id": "vine_30",
+  "fg": "overlay_wielded_vine_30",
+  "bg": [
+    "overlay_wielded_veggy",
+    "overlay_wielded_veggy_cooked"
+  ]
+}

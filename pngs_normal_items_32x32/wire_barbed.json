@@ -1,0 +1,6 @@
+{
+  "id": "wire_barbed",
+  "fg": "overlay_wielded_wire_barbed",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

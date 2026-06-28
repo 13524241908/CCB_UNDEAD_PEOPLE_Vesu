@@ -1,0 +1,48 @@
+{
+  "id": "t_distortion_floor",
+  "fg": [
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_1"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_2"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_4"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_5"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_4"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_2"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_fatigue_int1_1"
+    }
+  ],
+  "bg": "t_highland_bronze_floor",
+  "rotates": false,
+  "animated": true
+}

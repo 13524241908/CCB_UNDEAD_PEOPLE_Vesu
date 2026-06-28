@@ -1,0 +1,31 @@
+{
+  "id": "mon_dog_zombie_rot",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_5"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

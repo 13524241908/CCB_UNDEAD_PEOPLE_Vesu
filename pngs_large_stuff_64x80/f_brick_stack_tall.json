@@ -1,0 +1,52 @@
+{
+  "id": "f_brick_stack_tall",
+  "fg": "f_brick_stack_tall",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_brick_stack_tall"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_brick_stack_tall",
+        "f_brick_stack_tall"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall",
+        "f_brick_stack_tall"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_brick_stack_tall",
+        "f_brick_stack_tall"
+      ]
+    }
+  ]
+}

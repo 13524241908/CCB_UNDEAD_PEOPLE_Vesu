@@ -1,0 +1,11 @@
+{
+  "id": "balthazar_bunker_01_1",
+  "fg": [
+    "balthazar_bunker_01_1_1",
+    "balthazar_bunker_01_1_3",
+    "balthazar_bunker_01_1_2",
+    "balthazar_bunker_01_1_6"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

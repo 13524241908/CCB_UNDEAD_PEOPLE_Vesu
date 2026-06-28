@@ -1,0 +1,22 @@
+{
+  "id": [
+    "LIXA_roof_1a",
+    "LIXA_roof_1b",
+    "LIXA_roof_2a",
+    "LIXA_roof_2b",
+    "LIXA_surface_1a",
+    "LIXA_surface_1b",
+    "LIXA_surface_2a",
+    "LIXA_surface_2b",
+    "LIXA_stairshaft_1a",
+    "LIXA_stairshaft_1b",
+    "LIXA_stairshaft_1c",
+    "LIXA_stairshaft_1d",
+    "LIXA_stairshaft_2a",
+    "LIXA_stairshaft_2b",
+    "LIXA_stairshaft_2c",
+    "LIXA_stairshaft_2d"
+  ],
+  "fg": "LIXA_roof_1a",
+  "rotates": false
+}

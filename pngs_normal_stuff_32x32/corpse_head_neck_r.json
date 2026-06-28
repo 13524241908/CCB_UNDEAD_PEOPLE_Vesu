@@ -1,0 +1,10 @@
+{
+  "id": "corpse_head_neck_r",
+  "fg": [
+    "corpse_head_neck_r",
+    "corpse_head_neck_r_1",
+    "corpse_head_neck_r_2",
+    "corpse_head_neck_r_3"
+  ],
+  "rotates": true
+}

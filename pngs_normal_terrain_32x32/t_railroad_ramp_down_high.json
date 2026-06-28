@@ -1,0 +1,10 @@
+{
+  "id": "t_railroad_ramp_down_high",
+  "fg": [
+    "t_railroad_ramp_down_high",
+    "t_railroad_ramp_down_high_1",
+    "t_railroad_ramp_down_high",
+    "t_railroad_ramp_down_high_1"
+  ],
+  "rotates": true
+}

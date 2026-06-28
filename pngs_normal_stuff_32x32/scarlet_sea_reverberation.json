@@ -1,0 +1,42 @@
+{
+  "id": "scarlet_sea_reverberation",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_4"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_5"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_6"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_7"
+    },
+    {
+      "weight": 30,
+      "sprite": "scarlet_sea_reverberation_8"
+    }
+  ],
+  "rotates": false
+}

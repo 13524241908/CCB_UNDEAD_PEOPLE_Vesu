@@ -1,0 +1,50 @@
+{
+  "id": "f_earthbag_wall",
+  "fg": "f_earthbag_wall",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_earthbag_wall_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_earthbag_wall_corner_nw",
+        "f_earthbag_wall_corner_ne",
+        "f_earthbag_wall_corner_se",
+        "f_earthbag_wall_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_earthbag_wall_t_connection_n",
+        "f_earthbag_wall_t_connection_e",
+        "f_earthbag_wall_t_connection_s",
+        "f_earthbag_wall_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_earthbag_wall_edge_ns",
+        "f_earthbag_wall_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_earthbag_wall_end_piece_n",
+        "f_earthbag_wall_end_piece_e",
+        "f_earthbag_wall_end_piece_s",
+        "f_earthbag_wall_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_earthbag_wall_unconnected"
+    }
+  ]
+}

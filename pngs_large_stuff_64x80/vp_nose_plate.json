@@ -1,0 +1,11 @@
+{
+  "id": "vp_nose_plate",
+  "fg": [
+    "vp_nose_plate",
+    "vp_nose_plate_1",
+    "vp_nose_plate_2",
+    "vp_nose_plate_3"
+  ],
+  "rotates": true,
+  "multitile": true
+}

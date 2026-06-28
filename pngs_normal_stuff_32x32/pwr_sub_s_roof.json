@@ -1,0 +1,9 @@
+{
+  "id": [
+    "pwr_sub_s_roof",
+    "small_power_substation_roof"
+  ],
+  "fg": "pwr_sub_s_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

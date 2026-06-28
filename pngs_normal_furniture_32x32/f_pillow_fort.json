@@ -1,0 +1,50 @@
+{
+  "id": "f_pillow_fort",
+  "fg": "f_pillow_fort",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_pillow_fort_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_pillow_fort_corner_nw",
+        "f_pillow_fort_corner_ne",
+        "f_pillow_fort_corner_se",
+        "f_pillow_fort_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_pillow_fort_t_connection_n",
+        "f_pillow_fort_t_connection_e",
+        "f_pillow_fort_t_connection_s",
+        "f_pillow_fort_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_pillow_fort_edge_ns",
+        "f_pillow_fort_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_pillow_fort_end_piece_n",
+        "f_pillow_fort_end_piece_e",
+        "f_pillow_fort_end_piece_s",
+        "f_pillow_fort_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_pillow_fort_unconnected"
+    }
+  ]
+}

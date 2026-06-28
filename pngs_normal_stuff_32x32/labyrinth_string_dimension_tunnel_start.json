@@ -1,0 +1,34 @@
+{
+  "id": [
+    "labyrinth_string_dimension_tunnel_start",
+    "labyrinth_string_dimension_tunnel_end",
+    "labyrinth_string_dimension_tunnel_left",
+    "labyrinth_string_dimension_tunnel_right",
+    "labyrinth_string_dimension_tunnel_over",
+    "labyrinth_string_dimension_tunnel_under",
+    "labyrinth_string_dimension_tunnel_portal"
+  ],
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_2"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_3"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_4"
+    }
+  ],
+  "rotates": false
+}

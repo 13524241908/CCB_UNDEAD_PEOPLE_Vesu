@@ -1,0 +1,11 @@
+{
+  "id": "aircraft_carrier_8a_-1",
+  "fg": [
+    "aircraft_carrier_8a",
+    "aircraft_carrier_8a_1",
+    "aircraft_carrier_8a_2",
+    "aircraft_carrier_8a_3"
+  ],
+  "rotates": true,
+  "bg": "aircraft_carrier_1a_-1_bg"
+}

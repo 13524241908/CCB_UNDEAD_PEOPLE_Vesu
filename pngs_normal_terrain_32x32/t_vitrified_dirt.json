@@ -1,0 +1,30 @@
+{
+  "id": "t_vitrified_dirt",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_5"
+    }
+  ],
+  "rotates": false
+}

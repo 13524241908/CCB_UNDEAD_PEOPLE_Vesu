@@ -1,0 +1,57 @@
+{
+  "id": "t_drystone_wall",
+  "fg": "t_drystone_wall",
+  "bg": "bg_stone_floor",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_drystone_wall_center",
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_drystone_wall_corner_nw",
+        "t_drystone_wall_corner_ne",
+        "t_drystone_wall_corner_se",
+        "t_drystone_wall_corner_sw"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_drystone_wall_t_connection_n",
+        "t_drystone_wall_t_connection_e",
+        "t_drystone_wall_t_connection_s",
+        "t_drystone_wall_t_connection_w"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_drystone_wall_edge_ns",
+        "t_drystone_wall_edge_ew"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_drystone_wall_end_piece_n",
+        "t_drystone_wall_end_piece_e",
+        "t_drystone_wall_end_piece_s",
+        "t_drystone_wall_end_piece_w"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_drystone_wall_unconnected",
+      "bg": "bg_stone_floor"
+    }
+  ]
+}

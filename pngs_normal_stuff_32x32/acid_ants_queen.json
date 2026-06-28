@@ -1,0 +1,10 @@
+{
+  "id": "acid_ants_queen",
+  "fg": [
+    "acid_ants_queen",
+    "acid_ants_queen_1",
+    "acid_ants_queen_2",
+    "acid_ants_queen_3"
+  ],
+  "rotates": true
+}

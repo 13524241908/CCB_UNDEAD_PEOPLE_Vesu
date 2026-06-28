@@ -1,0 +1,23 @@
+{
+  "id": "mon_zombie_shrieker",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_shrieker"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_shrieker_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_shrieker_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_shrieker_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

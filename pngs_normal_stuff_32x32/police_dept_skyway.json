@@ -1,0 +1,14 @@
+{
+  "id": [
+    "police_dept_skyway",
+    "police_dept_skyway_roof"
+  ],
+  "fg": [
+    "police_dept_skyway",
+    "police_dept_skyway_1",
+    "police_dept_skyway_2",
+    "police_dept_skyway_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

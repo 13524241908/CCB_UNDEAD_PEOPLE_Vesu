@@ -1,0 +1,12 @@
+{
+  "id": "vp_trunk",
+  "fg": "vp_crane_tiny_bg_1",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_trunk_broken"
+    }
+  ]
+}

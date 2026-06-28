@@ -1,0 +1,16 @@
+{
+  "id": "vp_metal_wheel",
+  "fg": "vp_metal_wheel",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_metal_wheel_broken",
+      "bg": [
+        "vp_metal_wheel",
+        "vp_metal_wheel_broken_bg_1",
+        "vp_metal_wheel_broken_bg_2"
+      ]
+    }
+  ]
+}

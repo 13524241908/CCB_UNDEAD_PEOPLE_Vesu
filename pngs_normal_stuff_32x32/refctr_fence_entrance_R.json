@@ -1,0 +1,28 @@
+{
+  "id": "refctr_fence_entrance_R",
+  "fg": [
+    "refctr_fence_entrance_R",
+    "refctr_fence_entrance_R_1",
+    "refctr_fence_entrance_R_2",
+    "refctr_fence_entrance_R_3"
+  ],
+  "bg": [
+    {
+      "weight": 1,
+      "sprite": "conquerors_road_bg"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_3"
+    }
+  ],
+  "rotates": true
+}

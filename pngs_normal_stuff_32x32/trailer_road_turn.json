@@ -1,0 +1,10 @@
+{
+  "id": "trailer_road_turn",
+  "fg": [
+    "trailer_road_turn",
+    "trailer_road_turn_1",
+    "trailer_road_turn_2",
+    "trailer_road_turn_3"
+  ],
+  "rotates": true
+}

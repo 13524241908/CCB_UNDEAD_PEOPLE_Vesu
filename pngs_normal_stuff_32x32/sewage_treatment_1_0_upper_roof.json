@@ -1,0 +1,11 @@
+{
+  "id": "sewage_treatment_1_0_upper_roof",
+  "fg": [
+    "sewage_treatment_1_0_upper_roof",
+    "sewage_treatment_1_0_upper_roof_1",
+    "sewage_treatment_1_0_upper_roof_2",
+    "sewage_treatment_1_0_upper_roof_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

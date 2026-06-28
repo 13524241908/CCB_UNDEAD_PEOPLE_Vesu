@@ -1,0 +1,26 @@
+{
+  "id": "netherum_labyrinth_sparkling_chasm",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_2"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_3"
+    },
+    {
+      "weight": 100,
+      "sprite": "labyrinth_string_dimension_tunnel_start_4"
+    }
+  ],
+  "rotates": false
+}

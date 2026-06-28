@@ -1,0 +1,8 @@
+{
+  "id": "radio_mod",
+  "fg": "overlay_wielded_radio_mod",
+  "bg": [
+    "overlay_wielded_transponder",
+    "battery_atomic"
+  ]
+}

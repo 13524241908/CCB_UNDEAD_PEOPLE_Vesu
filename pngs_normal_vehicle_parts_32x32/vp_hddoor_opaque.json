@@ -1,0 +1,16 @@
+{
+  "id": "vp_hddoor_opaque",
+  "fg": "vp_hddoor_opaque",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_hddoor_opaque_broken"
+    },
+    {
+      "id": "open",
+      "fg": "vp_hddoor_opaque_open"
+    }
+  ]
+}

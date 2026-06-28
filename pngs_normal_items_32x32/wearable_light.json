@@ -1,0 +1,6 @@
+{
+  "id": "wearable_light",
+  "fg": "overlay_wielded_wearable_light",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

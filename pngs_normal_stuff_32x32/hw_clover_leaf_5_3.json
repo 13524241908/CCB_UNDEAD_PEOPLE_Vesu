@@ -1,0 +1,27 @@
+{
+  "id": "hw_clover_leaf_5_3",
+  "fg": "hw_clover_leaf_5_3",
+  "bg": [
+    {
+      "weight": 3,
+      "sprite": "cabin_prepper_bg"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "LIXA_entry_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "farm_horse_greenhouse_bg"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_4"
+    }
+  ],
+  "rotates": false
+}

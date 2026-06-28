@@ -1,0 +1,26 @@
+{
+  "id": "corpse_dermatik_victim",
+  "fg": [
+    {
+      "weight": 60,
+      "sprite": "corpse_dermatik_victim"
+    },
+    {
+      "weight": 60,
+      "sprite": "corpse_dermatik_victim_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "corpse_dermatik_victim_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "corpse_dermatik_victim_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "corpse_dermatik_victim_4"
+    }
+  ],
+  "rotates": false
+}

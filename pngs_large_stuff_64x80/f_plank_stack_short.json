@@ -1,0 +1,52 @@
+{
+  "id": "f_plank_stack_short",
+  "fg": "f_plank_stack_short",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_plank_stack_short_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_plank_stack_short_center",
+        "f_plank_stack_short_center",
+        "f_plank_stack_short",
+        "f_plank_stack_short"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_plank_stack_short_center",
+        "f_plank_stack_short_center",
+        "f_plank_stack_short_center",
+        "f_plank_stack_short"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_plank_stack_short",
+        "f_plank_stack_short_center"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_plank_stack_short",
+        "f_plank_stack_short_center",
+        "f_plank_stack_short",
+        "f_plank_stack_short"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_plank_stack_short",
+        "f_plank_stack_short"
+      ]
+    }
+  ]
+}

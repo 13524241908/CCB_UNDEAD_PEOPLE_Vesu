@@ -1,0 +1,75 @@
+{
+  "id": "fd_fungal_splinters",
+  "fg": "fd_fungal_splinters",
+  "bg": "fd_fungal_splinters_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_fungal_splinters_center",
+      "bg": "fd_fungal_splinters_center_bg"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_fungal_splinters_corner_nw",
+        "fd_fungal_splinters_corner_ne",
+        "fd_fungal_splinters_corner_se",
+        "fd_fungal_splinters_corner_sw"
+      ],
+      "bg": [
+        "fd_fungal_splinters_corner_nw_bg",
+        "fd_fungal_splinters_corner_ne_bg",
+        "fd_fungal_splinters_corner_se_bg",
+        "fd_fungal_splinters_corner_sw_bg"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_fungal_splinters_t_connection_n",
+        "fd_fungal_splinters_t_connection_e",
+        "fd_fungal_splinters_t_connection_s",
+        "fd_fungal_splinters_t_connection_w"
+      ],
+      "bg": [
+        "fd_fungal_splinters_t_connection_n_bg",
+        "fd_fungal_splinters_t_connection_e_bg",
+        "fd_fungal_splinters_t_connection_s_bg",
+        "fd_fungal_splinters_t_connection_w_bg"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_fungal_splinters_edge_ns",
+        "fd_fungal_splinters_edge_ew"
+      ],
+      "bg": [
+        "fd_fungal_splinters_edge_ns_bg",
+        "fd_fungal_splinters_edge_ew_bg"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_fungal_splinters_end_piece_n",
+        "fd_fungal_splinters_end_piece_e",
+        "fd_fungal_splinters_end_piece_s",
+        "fd_fungal_splinters_end_piece_w"
+      ],
+      "bg": [
+        "fd_fungal_splinters_end_piece_n_bg",
+        "fd_fungal_splinters_end_piece_e_bg",
+        "fd_fungal_splinters_end_piece_s_bg",
+        "fd_fungal_splinters_end_piece_w_bg"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_fungal_splinters_unconnected",
+      "bg": "fd_fungal_splinters_unconnected_bg"
+    }
+  ]
+}

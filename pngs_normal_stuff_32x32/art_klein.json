@@ -1,0 +1,19 @@
+{
+  "id": "art_klein",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_klein"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_klein_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_klein_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

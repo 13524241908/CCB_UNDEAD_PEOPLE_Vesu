@@ -1,0 +1,46 @@
+{
+  "id": "fd_toxic_gas",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_gas_vent_9"
+    }
+  ],
+  "animated": true
+}

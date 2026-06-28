@@ -1,0 +1,13 @@
+{
+  "id": [
+    "ants_larvae",
+    "acid_ants_larvae"
+  ],
+  "fg": [
+    "ants_larvae",
+    "ants_larvae_1",
+    "ants_larvae_2",
+    "ants_larvae_3"
+  ],
+  "rotates": true
+}

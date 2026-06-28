@@ -1,0 +1,11 @@
+{
+  "id": "mine_entrance_loading_zone_roof",
+  "fg": [
+    "mine_entrance_loading_zone_roof",
+    "mine_entrance_loading_zone_roof_1",
+    "mine_entrance_loading_zone_roof_2",
+    "mine_entrance_loading_zone_roof_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

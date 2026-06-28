@@ -1,0 +1,10 @@
+{
+  "id": [
+    "s_teashop_roof",
+    "s_teashop_roof_1",
+    "s_teashop_upper_roof_1"
+  ],
+  "fg": "s_teashop_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

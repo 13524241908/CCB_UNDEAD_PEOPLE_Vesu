@@ -1,0 +1,10 @@
+{
+  "id": [
+    "outsert_clear",
+    "outsert_sunlight",
+    "outsert_breach",
+    "insert_vision_correction"
+  ],
+  "fg": "outsert_clear",
+  "rotates": false
+}

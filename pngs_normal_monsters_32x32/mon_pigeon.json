@@ -1,0 +1,26 @@
+{
+  "id": [
+    "mon_pigeon",
+    "mon_pidgeon"
+  ],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

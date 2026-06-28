@@ -1,0 +1,22 @@
+{
+  "id": "vp_basketsm_wheelchair",
+  "fg": [
+    "vp_basketsm_wheelchair",
+    "vp_basketsm_wheelchair_1",
+    "vp_basketsm_wheelchair_2",
+    "vp_basketsm_wheelchair_3"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_basketsm_wheelchair_broken",
+        "vp_basketsm_wheelchair_broken_1",
+        "vp_basketsm_wheelchair_broken_2",
+        "vp_basketsm_wheelchair_broken_3"
+      ]
+    }
+  ]
+}

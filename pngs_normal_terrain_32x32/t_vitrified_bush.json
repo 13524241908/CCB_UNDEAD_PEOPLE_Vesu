@@ -1,0 +1,19 @@
+{
+  "id": "t_vitrified_bush",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "t_vitrified_bush"
+    },
+    {
+      "weight": 20,
+      "sprite": "t_vitrified_bush_1"
+    },
+    {
+      "weight": 50,
+      "sprite": "t_vitrified_bush_2"
+    }
+  ],
+  "bg": "t_nether_glass_floor_clairvoyance_bg",
+  "rotates": false
+}

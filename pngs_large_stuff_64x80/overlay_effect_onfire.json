@@ -1,0 +1,31 @@
+{
+  "id": "overlay_effect_onfire",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire"
+    },
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "overlay_effect_onfire_5"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

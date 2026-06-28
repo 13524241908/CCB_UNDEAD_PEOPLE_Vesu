@@ -1,0 +1,22 @@
+{
+  "id": "refctr_field",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "conquerors_road_bg"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "refctr_field_3"
+    }
+  ],
+  "rotates": false
+}

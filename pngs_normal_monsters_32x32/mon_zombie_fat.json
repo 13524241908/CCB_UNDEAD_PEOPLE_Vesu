@@ -1,0 +1,71 @@
+{
+  "id": "mon_zombie_fat",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_13"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_14"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_dusted_15"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

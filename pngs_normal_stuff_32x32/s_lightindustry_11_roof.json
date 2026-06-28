@@ -1,0 +1,14 @@
+{
+  "id": [
+    "s_lightindustry_11_roof",
+    "s_lightindustry_scen_11_roof"
+  ],
+  "fg": [
+    "s_lightindustry_00_roof_2",
+    "s_lightindustry_00_roof_3",
+    "s_lightindustry_00_roof",
+    "s_lightindustry_00_roof_1"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mon_feral_militia",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_militia"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_militia_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_militia_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

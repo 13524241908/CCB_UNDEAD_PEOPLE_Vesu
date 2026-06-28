@@ -1,0 +1,12 @@
+{
+  "id": "vp_m1a",
+  "fg": "vp_m1a",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_m1a_broken"
+    }
+  ]
+}

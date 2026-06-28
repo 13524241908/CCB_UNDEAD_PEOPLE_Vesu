@@ -1,0 +1,9 @@
+{
+  "id": [
+    "pawn_roof",
+    "pawn_roof_1"
+  ],
+  "fg": "pawn_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

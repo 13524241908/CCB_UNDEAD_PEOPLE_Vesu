@@ -1,0 +1,20 @@
+{
+  "id": "art_coat",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_coat"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_coat_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_coat_2"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true,
+  "rotates": false
+}
