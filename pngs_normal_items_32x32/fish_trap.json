@@ -1,0 +1,8 @@
+{
+  "id": "fish_trap",
+  "fg": "fish_trap",
+  "bg": [
+    "fish_trap_bg",
+    "fish_trap_bg_1"
+  ]
+}

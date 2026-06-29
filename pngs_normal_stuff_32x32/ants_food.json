@@ -1,0 +1,13 @@
+{
+  "id": [
+    "ants_food",
+    "acid_ants_food"
+  ],
+  "fg": [
+    "ants_food",
+    "ants_food_1",
+    "ants_food_2",
+    "ants_food_3"
+  ],
+  "rotates": true
+}

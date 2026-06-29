@@ -1,0 +1,18 @@
+{
+  "id": "string_dimension_field_core",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "string_dimension_field_core"
+    },
+    {
+      "weight": 3,
+      "sprite": "string_dimension_field_core_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "string_dimension_field_core_2"
+    }
+  ],
+  "rotates": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mon_skeleton",
+  "fg": "mon_skeleton_dusted",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

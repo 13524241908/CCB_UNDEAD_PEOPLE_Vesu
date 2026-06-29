@@ -1,0 +1,12 @@
+{
+  "id": "vp_veh_kiln",
+  "fg": "vp_veh_kiln",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_veh_kiln_broken"
+    }
+  ]
+}

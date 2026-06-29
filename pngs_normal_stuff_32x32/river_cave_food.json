@@ -1,0 +1,13 @@
+{
+  "id": [
+    "river_cave_food",
+    "acid_river_cave_food"
+  ],
+  "fg": [
+    "river_cave_food",
+    "river_cave_food_1",
+    "river_cave_food_2",
+    "river_cave_food_3"
+  ],
+  "rotates": true
+}

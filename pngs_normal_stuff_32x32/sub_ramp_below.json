@@ -1,0 +1,10 @@
+{
+  "id": "sub_ramp_below",
+  "fg": [
+    "sub_ramp_below",
+    "sub_ramp_below_1",
+    "sub_ramp_below",
+    "sub_ramp_below_1"
+  ],
+  "rotates": true
+}

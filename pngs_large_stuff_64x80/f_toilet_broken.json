@@ -1,0 +1,13 @@
+{
+  "id": "f_toilet_broken",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_toilet_broken"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_toilet_broken_1"
+    }
+  ]
+}

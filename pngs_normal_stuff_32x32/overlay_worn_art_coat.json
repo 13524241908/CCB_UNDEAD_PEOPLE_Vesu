@@ -1,0 +1,19 @@
+{
+  "id": "overlay_worn_art_coat",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_coat"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_coat_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_coat_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

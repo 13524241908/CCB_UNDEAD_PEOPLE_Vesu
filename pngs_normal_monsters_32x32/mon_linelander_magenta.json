@@ -1,0 +1,14 @@
+{
+  "id": "mon_linelander_magenta",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_linelander_magenta"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_linelander_magenta_1"
+    }
+  ],
+  "animated": true
+}

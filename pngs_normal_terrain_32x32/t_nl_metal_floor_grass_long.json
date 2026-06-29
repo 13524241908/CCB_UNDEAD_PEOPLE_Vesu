@@ -1,0 +1,91 @@
+{
+  "id": "t_nl_metal_floor_grass_long",
+  "fg": "t_grass_long",
+  "bg": "t_metal_floor_no_roof",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_center"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_3"
+        }
+      ],
+      "bg": "t_metal_floor_no_roof"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_grass_long_corner_nw",
+        "t_grass_long_corner_ne",
+        "t_grass_long_corner_se",
+        "t_grass_long_corner_sw"
+      ],
+      "bg": "t_metal_floor_no_roof"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_grass_long_t_connection_n",
+        "t_grass_long_t_connection_e",
+        "t_grass_long_t_connection_s",
+        "t_grass_long_t_connection_w"
+      ],
+      "bg": "t_metal_floor_no_roof"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_grass_long_edge_ns",
+        "t_grass_long_edge_ew"
+      ],
+      "bg": "t_metal_floor_no_roof"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_grass_long_end_piece_n",
+        "t_grass_long_end_piece_e",
+        "t_grass_long_end_piece_s",
+        "t_grass_long_end_piece_w"
+      ],
+      "bg": "t_metal_floor_no_roof"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_long_8"
+        }
+      ],
+      "bg": "t_metal_floor_no_roof"
+    }
+  ]
+}

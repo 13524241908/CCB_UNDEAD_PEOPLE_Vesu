@@ -1,0 +1,10 @@
+{
+  "id": "bridge_road",
+  "fg": [
+    "bridge",
+    "bridge_1",
+    "bridge_2",
+    "bridge_3"
+  ],
+  "rotates": true
+}

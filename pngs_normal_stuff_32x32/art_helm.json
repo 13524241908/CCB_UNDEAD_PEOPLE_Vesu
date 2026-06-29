@@ -1,0 +1,20 @@
+{
+  "id": "art_helm",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_helm"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_helm_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_helm_2"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true,
+  "rotates": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": [
+    "pump_station_1",
+    "necropolis_a_7"
+  ],
+  "fg": [
+    "pump_station_1",
+    "pump_station_1_1",
+    "pump_station_1_2",
+    "pump_station_1_3"
+  ],
+  "rotates": true
+}

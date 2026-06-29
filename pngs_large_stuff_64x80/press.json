@@ -1,0 +1,6 @@
+{
+  "id": "press",
+  "fg": "overlay_wielded_press",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

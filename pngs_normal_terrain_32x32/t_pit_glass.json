@@ -1,0 +1,57 @@
+{
+  "id": "t_pit_glass",
+  "fg": "t_pit_glass",
+  "bg": "bg_dirt",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_glass_center",
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_pit_glass_corner_nw",
+        "t_pit_glass_corner_ne",
+        "t_pit_glass_corner_se",
+        "t_pit_glass_corner_sw"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_pit_glass_t_connection_n",
+        "t_pit_glass_t_connection_e",
+        "t_pit_glass_t_connection_s",
+        "t_pit_glass_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_pit_glass_edge_ns",
+        "t_pit_glass_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_pit_glass_end_piece_n",
+        "t_pit_glass_end_piece_e",
+        "t_pit_glass_end_piece_s",
+        "t_pit_glass_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_pit_glass_unconnected",
+      "bg": "bg_dirt"
+    }
+  ]
+}

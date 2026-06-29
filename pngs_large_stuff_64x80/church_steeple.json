@@ -1,0 +1,9 @@
+{
+  "id": [
+    "church_steeple",
+    "church_3rdfloor_1"
+  ],
+  "fg": "church_steeple",
+  "bg": "bg_big_open_air",
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vp_integrated_trashcan",
+  "fg": [
+    "vp_integrated_trashcan",
+    "vp_integrated_trashcan_1",
+    "vp_integrated_trashcan_2",
+    "vp_integrated_trashcan_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fd_sap",
+  "fg": "fd_sap",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_sap_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_sap_corner_nw",
+        "fd_sap_corner_ne",
+        "fd_sap_corner_se",
+        "fd_sap_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_sap_t_connection_n",
+        "fd_sap_t_connection_e",
+        "fd_sap_t_connection_s",
+        "fd_sap_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_sap_edge_ns",
+        "fd_sap_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_sap_end_piece_n",
+        "fd_sap_end_piece_e",
+        "fd_sap_end_piece_s",
+        "fd_sap_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_sap_unconnected"
+    }
+  ]
+}

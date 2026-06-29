@@ -1,0 +1,6 @@
+{
+  "id": "discharging_battery",
+  "fg": "discharged_storage_battery",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

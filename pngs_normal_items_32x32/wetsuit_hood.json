@@ -1,0 +1,6 @@
+{
+  "id": "wetsuit_hood",
+  "fg": "overlay_wielded_wetsuit_hood",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

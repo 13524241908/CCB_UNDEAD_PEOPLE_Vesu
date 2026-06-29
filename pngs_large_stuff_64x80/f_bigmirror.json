@@ -1,0 +1,10 @@
+{
+  "id": "f_bigmirror",
+  "rotates": true,
+  "fg": [
+    "f_bigmirror",
+    "f_bigmirror_1",
+    "f_bigmirror_2",
+    "f_bigmirror_3"
+  ]
+}

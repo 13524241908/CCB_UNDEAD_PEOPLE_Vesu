@@ -1,0 +1,14 @@
+{
+  "id": "mon_labyrinth_buoy_turret_1_2",
+  "fg": [
+    {
+      "weight": 101,
+      "sprite": "mon_labyrinth_buoy_turret_1_2"
+    },
+    {
+      "weight": 101,
+      "sprite": "mon_labyrinth_buoy_turret_1_2_1"
+    }
+  ],
+  "animated": true
+}

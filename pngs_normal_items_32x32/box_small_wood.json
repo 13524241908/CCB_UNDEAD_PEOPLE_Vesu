@@ -1,0 +1,9 @@
+{
+  "id": [
+    "box_small_wood",
+    "box_compact_wood"
+  ],
+  "fg": "box_small_wood",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mon_halo_tangle",
+  "fg": "mon_halo_tangle",
+  "bg": [
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_1"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_2"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_3"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_4"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_5"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_6"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_halo_tangle_bg_7"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

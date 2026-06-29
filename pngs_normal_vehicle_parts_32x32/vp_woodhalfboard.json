@@ -1,0 +1,12 @@
+{
+  "id": "vp_woodhalfboard",
+  "fg": "vp_woodhalfboard",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_woodhalfboard_broken"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fd_extinguisher",
+  "fg": "fd_extinguisher",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_extinguisher_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_extinguisher_corner_nw",
+        "fd_extinguisher_corner_ne",
+        "fd_extinguisher_corner_se",
+        "fd_extinguisher_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_extinguisher_t_connection_n",
+        "fd_extinguisher_t_connection_e",
+        "fd_extinguisher_t_connection_s",
+        "fd_extinguisher_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_extinguisher_edge_ns",
+        "fd_extinguisher_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_extinguisher_end_piece_n",
+        "fd_extinguisher_end_piece_e",
+        "fd_extinguisher_end_piece_s",
+        "fd_extinguisher_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_extinguisher_unconnected"
+    }
+  ]
+}

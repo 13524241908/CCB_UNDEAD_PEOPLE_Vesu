@@ -1,0 +1,28 @@
+{
+  "id": "mon_firefly",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_firefly"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_firefly_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_firefly_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_firefly_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_firefly_4"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": true
+}

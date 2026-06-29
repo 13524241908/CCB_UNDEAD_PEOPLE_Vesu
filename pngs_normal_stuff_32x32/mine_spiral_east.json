@@ -1,0 +1,10 @@
+{
+  "id": "mine_spiral_east",
+  "fg": [
+    "mine_spiral_east",
+    "mine_spiral_east_1",
+    "mine_spiral_east_2",
+    "mine_spiral_east_3"
+  ],
+  "rotates": true
+}

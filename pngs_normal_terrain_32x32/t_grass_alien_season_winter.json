@@ -1,0 +1,91 @@
+{
+  "id": "t_grass_alien_season_winter",
+  "fg": "t_alien_meadow_grass_tall",
+  "bg": "bg_dirt_season_winter",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_center"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_3"
+        }
+      ],
+      "bg": "bg_dirt_season_winter"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_alien_meadow_grass_tall_corner_nw",
+        "t_alien_meadow_grass_tall_corner_ne",
+        "t_alien_meadow_grass_tall_corner_se",
+        "t_alien_meadow_grass_tall_corner_sw"
+      ],
+      "bg": "bg_dirt_season_winter"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_alien_meadow_grass_tall_t_connection_n",
+        "t_alien_meadow_grass_tall_t_connection_e",
+        "t_alien_meadow_grass_tall_t_connection_s",
+        "t_alien_meadow_grass_tall_t_connection_w"
+      ],
+      "bg": "bg_dirt_season_winter"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_alien_meadow_grass_tall_edge_ns",
+        "t_alien_meadow_grass_tall_edge_ew"
+      ],
+      "bg": "bg_dirt_season_winter"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_alien_meadow_grass_tall_end_piece_n",
+        "t_alien_meadow_grass_tall_end_piece_e",
+        "t_alien_meadow_grass_tall_end_piece_s",
+        "t_alien_meadow_grass_tall_end_piece_w"
+      ],
+      "bg": "bg_dirt_season_winter"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_alien_meadow_grass_tall_8"
+        }
+      ],
+      "bg": "bg_dirt_season_winter"
+    }
+  ]
+}

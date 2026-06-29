@@ -1,0 +1,48 @@
+{
+  "id": "mon_eigenspectre_3_echo",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_4"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_5"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_4"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_eigenspectre_3_echo_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true,
+  "rotates": false
+}

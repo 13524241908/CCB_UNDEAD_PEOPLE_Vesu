@@ -1,0 +1,15 @@
+{
+  "id": [
+    "s_library_roof",
+    "s_library_roof_1",
+    "s_library_roof_2",
+    "s_bookstore_roof",
+    "s_bookstore_roof_1",
+    "s_bookstore_upper_roof_1",
+    "s_bookstore_roof_2",
+    "s_bookstore_upper_roof"
+  ],
+  "fg": "s_library_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": [
+    "microlab_generic_stairs_down",
+    "microlab_generic_isolated_stairs_odd",
+    "microlab_generic_isolated_stairs_up",
+    "microlab_generic_isolated_elevator_pit",
+    "central_lab_stairs",
+    "microlab_portal_elevator",
+    "microlab_portal_elevator_physics_glass",
+    "microlab_portal_MSU14_elevator",
+    "microlab_ratkin_vent_shaft_connector"
+  ],
+  "fg": "microlab_generic_stairs_down",
+  "rotates": false
+}

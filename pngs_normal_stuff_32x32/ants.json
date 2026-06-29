@@ -1,0 +1,52 @@
+{
+  "id": [
+    "ants",
+    "acid_ants"
+  ],
+  "fg": "ants",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "ants"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "ants_corner_nw",
+        "ants_corner_ne",
+        "ants_corner_se",
+        "ants_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "ants_t_connection_n",
+        "ants_t_connection_e",
+        "ants_t_connection_s",
+        "ants_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "ants_edge_ns",
+        "ants_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "ants_end_piece_n",
+        "ants_end_piece_e",
+        "ants_end_piece_s",
+        "ants_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "ants"
+    }
+  ]
+}

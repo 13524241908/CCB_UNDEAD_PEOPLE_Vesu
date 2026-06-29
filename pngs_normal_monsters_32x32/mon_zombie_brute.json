@@ -1,0 +1,6 @@
+{
+  "id": "mon_zombie_brute",
+  "fg": "mon_zombie_brute_dusted",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

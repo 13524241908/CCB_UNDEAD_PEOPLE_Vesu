@@ -1,0 +1,50 @@
+{
+  "id": "f_sandbag_half",
+  "fg": "f_sandbag_half",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_sandbag_half_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_sandbag_half_corner_nw",
+        "f_sandbag_half_corner_ne",
+        "f_sandbag_half_corner_se",
+        "f_sandbag_half_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_sandbag_half_t_connection_n",
+        "f_sandbag_half_t_connection_e",
+        "f_sandbag_half_t_connection_s",
+        "f_sandbag_half_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_sandbag_half_edge_ns",
+        "f_sandbag_half_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_sandbag_half_end_piece_n",
+        "f_sandbag_half_end_piece_e",
+        "f_sandbag_half_end_piece_s",
+        "f_sandbag_half_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_sandbag_half_unconnected"
+    }
+  ]
+}

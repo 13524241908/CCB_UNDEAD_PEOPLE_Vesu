@@ -1,0 +1,11 @@
+{
+  "id": "bridgehead_ramp",
+  "fg": [
+    "bridgehead_ramp",
+    "bridgehead_ramp_1",
+    "bridgehead_ramp_2",
+    "bridgehead_ramp_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

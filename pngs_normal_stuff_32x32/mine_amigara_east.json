@@ -1,0 +1,10 @@
+{
+  "id": "mine_amigara_east",
+  "fg": [
+    "mine_amigara_east",
+    "mine_amigara_east_1",
+    "mine_amigara_east_2",
+    "mine_amigara_east_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": "plut_slurry_dense",
+  "fg": "overlay_wielded_plut_slurry_dense",
+  "bg": [
+    "plut_slurry_dense_bg",
+    "plut_slurry_dense_bg_1",
+    "plut_slurry_dense_bg_2",
+    "plut_slurry_dense_bg_3",
+    "plut_slurry_dense_bg_4",
+    "overlay_wielded_plut_slurry",
+    "overlay_wielded_plut_slurry_dense"
+  ]
+}

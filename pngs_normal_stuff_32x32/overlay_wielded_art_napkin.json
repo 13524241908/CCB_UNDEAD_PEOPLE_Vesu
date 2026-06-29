@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_napkin",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_napkin"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_napkin_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_napkin_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

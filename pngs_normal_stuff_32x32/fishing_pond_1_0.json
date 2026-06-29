@@ -1,0 +1,10 @@
+{
+  "id": "fishing_pond_1_0",
+  "fg": [
+    "fishing_pond_0_0_1",
+    "fishing_pond_0_0",
+    "fishing_pond_0_0_3",
+    "fishing_pond_0_0_2"
+  ],
+  "rotates": true
+}

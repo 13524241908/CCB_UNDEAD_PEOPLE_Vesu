@@ -1,0 +1,19 @@
+{
+  "id": "mon_twisted_body",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_twisted_body"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_twisted_body_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_twisted_body_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

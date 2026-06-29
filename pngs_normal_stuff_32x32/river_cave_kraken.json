@@ -1,0 +1,10 @@
+{
+  "id": "river_cave_kraken",
+  "fg": [
+    "river_cave_kraken",
+    "river_cave_kraken_1",
+    "river_cave_kraken_2",
+    "river_cave_kraken_3"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "garage_gas_2",
+  "fg": [
+    "garage_gas_2",
+    "garage_gas_2_1",
+    "garage_gas_2_2",
+    "garage_gas_2_3"
+  ],
+  "rotates": true
+}

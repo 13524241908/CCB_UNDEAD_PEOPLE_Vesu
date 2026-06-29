@@ -1,0 +1,10 @@
+{
+  "id": "mil_base_minefield_gate_right",
+  "fg": [
+    "mil_base_minefield_gate_left_3",
+    "mil_base_minefield_gate_left",
+    "mil_base_minefield_gate_left_1",
+    "mil_base_minefield_gate_left_2"
+  ],
+  "rotates": true
+}

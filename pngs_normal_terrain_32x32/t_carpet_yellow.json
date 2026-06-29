@@ -1,0 +1,57 @@
+{
+  "id": "t_carpet_yellow",
+  "fg": "t_carpet_concrete_yellow",
+  "bg": "bg_t_floor",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_carpet_concrete_yellow_center",
+      "bg": "bg_t_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_carpet_concrete_yellow_corner_nw",
+        "t_carpet_concrete_yellow_corner_ne",
+        "t_carpet_concrete_yellow_corner_se",
+        "t_carpet_concrete_yellow_corner_sw"
+      ],
+      "bg": "bg_t_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_carpet_concrete_yellow_t_connection_n",
+        "t_carpet_concrete_yellow_t_connection_e",
+        "t_carpet_concrete_yellow_t_connection_s",
+        "t_carpet_concrete_yellow_t_connection_w"
+      ],
+      "bg": "bg_t_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_carpet_concrete_yellow_edge_ns",
+        "t_carpet_concrete_yellow_edge_ew"
+      ],
+      "bg": "bg_t_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_carpet_concrete_yellow_end_piece_n",
+        "t_carpet_concrete_yellow_end_piece_e",
+        "t_carpet_concrete_yellow_end_piece_s",
+        "t_carpet_concrete_yellow_end_piece_w"
+      ],
+      "bg": "bg_t_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_carpet_concrete_yellow_unconnected",
+      "bg": "bg_t_floor"
+    }
+  ]
+}

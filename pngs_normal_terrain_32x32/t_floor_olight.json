@@ -1,0 +1,106 @@
+{
+  "id": "t_floor_olight",
+  "fg": "olight",
+  "bg": "t_railing_center_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "olight",
+      "bg": [
+        {
+          "weight": 999,
+          "sprite": "t_floor_center"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_5"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_6"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_7"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_8"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_9"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_10"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_11"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": "olight",
+      "bg": [
+        "t_floor_corner_nw",
+        "t_floor_corner_ne",
+        "t_floor_corner_se",
+        "t_floor_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": "olight",
+      "bg": [
+        "t_floor_t_connection_n",
+        "t_floor_t_connection_e",
+        "t_floor_t_connection_s",
+        "t_floor_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": "olight",
+      "bg": [
+        "t_floor_edge_ns",
+        "t_floor_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": "olight",
+      "bg": [
+        "t_floor_end_piece_n",
+        "t_floor_end_piece_e",
+        "t_floor_end_piece_s",
+        "t_floor_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "olight",
+      "bg": "t_floor_unconnected"
+    }
+  ]
+}

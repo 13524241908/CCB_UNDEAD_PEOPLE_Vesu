@@ -1,0 +1,6 @@
+{
+  "id": "rifle_scope",
+  "fg": "overlay_wielded_rifle_scope",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

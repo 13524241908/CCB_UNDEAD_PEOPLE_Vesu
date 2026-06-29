@@ -1,0 +1,6 @@
+{
+  "id": "mon_brute_pupa_decoy",
+  "fg": "mon_brute_pupa",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

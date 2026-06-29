@@ -1,0 +1,11 @@
+{
+  "id": "garage_gas_roof_3",
+  "fg": [
+    "garage_gas_roof_3",
+    "garage_gas_roof_3_1",
+    "garage_gas_roof_3_2",
+    "garage_gas_roof_3_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

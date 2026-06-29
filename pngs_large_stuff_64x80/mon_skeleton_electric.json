@@ -1,0 +1,24 @@
+{
+  "id": "mon_skeleton_electric",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_skeleton_electric"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_skeleton_electric_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_skeleton_electric_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_skeleton_electric_3"
+    }
+  ],
+  "bg": "mon_spawn_raptor_dusted_bg",
+  "animated": true,
+  "rotates": false
+}

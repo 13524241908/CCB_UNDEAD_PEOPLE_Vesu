@@ -1,0 +1,16 @@
+{
+  "id": [
+    "golfcourse_00",
+    "golfcourse_01",
+    "golfcourse_02",
+    "golfcourse_10",
+    "golfcourse_11",
+    "golfcourse_12",
+    "golfcourse_20",
+    "golfcourse_21",
+    "golfcourse_22",
+    "golfcourse_32"
+  ],
+  "fg": "golfcourse_00",
+  "rotates": false
+}

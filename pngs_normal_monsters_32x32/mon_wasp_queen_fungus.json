@@ -1,0 +1,15 @@
+{
+  "id": "mon_wasp_queen_fungus",
+  "fg": [
+    {
+      "weight": 20,
+      "sprite": "mon_bee_fungus"
+    },
+    {
+      "weight": 20,
+      "sprite": "mon_bee_fungus_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true
+}

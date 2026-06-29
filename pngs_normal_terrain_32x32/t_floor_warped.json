@@ -1,0 +1,26 @@
+{
+  "id": "t_floor_warped",
+  "fg": [
+    {
+      "weight": 20,
+      "sprite": "radiosphere_deletion_plane"
+    },
+    {
+      "weight": 20,
+      "sprite": "radiosphere_deletion_plane_1"
+    },
+    {
+      "weight": 20,
+      "sprite": "radiosphere_deletion_plane_2"
+    },
+    {
+      "weight": 20,
+      "sprite": "radiosphere_deletion_plane_3"
+    },
+    {
+      "weight": 20,
+      "sprite": "radiosphere_deletion_plane_4"
+    }
+  ],
+  "rotates": false
+}

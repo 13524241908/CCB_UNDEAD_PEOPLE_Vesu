@@ -1,0 +1,6 @@
+{
+  "id": "towel_wet",
+  "fg": "overlay_wielded_towel_wet",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

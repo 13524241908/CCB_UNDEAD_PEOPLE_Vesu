@@ -1,0 +1,50 @@
+{
+  "id": "fd_gibs_veggy",
+  "fg": "fd_gibs_veggy",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_gibs_veggy_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_gibs_veggy_corner_nw",
+        "fd_gibs_veggy_corner_ne",
+        "fd_gibs_veggy_corner_se",
+        "fd_gibs_veggy_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_gibs_veggy_t_connection_n",
+        "fd_gibs_veggy_t_connection_e",
+        "fd_gibs_veggy_t_connection_s",
+        "fd_gibs_veggy_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_gibs_veggy_edge_ns",
+        "fd_gibs_veggy_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_gibs_veggy_end_piece_n",
+        "fd_gibs_veggy_end_piece_e",
+        "fd_gibs_veggy_end_piece_s",
+        "fd_gibs_veggy_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_gibs_veggy_unconnected"
+    }
+  ]
+}

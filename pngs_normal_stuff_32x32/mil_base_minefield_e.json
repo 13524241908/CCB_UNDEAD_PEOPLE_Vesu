@@ -1,0 +1,18 @@
+{
+  "id": "mil_base_minefield_e",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mil_base_minefield_e"
+    },
+    {
+      "weight": 25,
+      "sprite": "mil_base_minefield_e_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mil_base_minefield_e_2"
+    }
+  ],
+  "rotates": true
+}

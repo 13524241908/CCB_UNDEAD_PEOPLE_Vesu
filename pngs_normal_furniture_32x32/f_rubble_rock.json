@@ -1,0 +1,75 @@
+{
+  "id": "f_rubble_rock",
+  "fg": "f_rubble_rock",
+  "bg": "bg_f_rubble_rock",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_rubble_rock_center",
+      "bg": "bg_f_rubble_rock_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_rubble_rock_corner_nw",
+        "f_rubble_rock_corner_ne",
+        "f_rubble_rock_corner_se",
+        "f_rubble_rock_corner_sw"
+      ],
+      "bg": [
+        "bg_f_rubble_rock_corner_nw",
+        "bg_f_rubble_rock_corner_ne",
+        "bg_f_rubble_rock_corner_se",
+        "bg_f_rubble_rock_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_rubble_rock_t_connection_n",
+        "f_rubble_rock_t_connection_e",
+        "f_rubble_rock_t_connection_s",
+        "f_rubble_rock_t_connection_w"
+      ],
+      "bg": [
+        "bg_f_rubble_rock_t_connection_n",
+        "bg_f_rubble_rock_t_connection_e",
+        "bg_f_rubble_rock_t_connection_s",
+        "bg_f_rubble_rock_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_rubble_rock_edge_ns",
+        "f_rubble_rock_edge_ew"
+      ],
+      "bg": [
+        "bg_f_rubble_rock_edge_ns",
+        "bg_f_rubble_rock_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_rubble_rock_end_piece_n",
+        "f_rubble_rock_end_piece_e",
+        "f_rubble_rock_end_piece_s",
+        "f_rubble_rock_end_piece_w"
+      ],
+      "bg": [
+        "bg_f_rubble_rock_end_piece_n",
+        "bg_f_rubble_rock_end_piece_e",
+        "bg_f_rubble_rock_end_piece_s",
+        "bg_f_rubble_rock_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_rubble_rock_unconnected",
+      "bg": "bg_f_rubble_rock_unconnected"
+    }
+  ]
+}

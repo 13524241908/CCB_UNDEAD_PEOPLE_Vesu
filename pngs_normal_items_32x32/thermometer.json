@@ -1,0 +1,6 @@
+{
+  "id": "thermometer",
+  "fg": "overlay_wielded_thermometer",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

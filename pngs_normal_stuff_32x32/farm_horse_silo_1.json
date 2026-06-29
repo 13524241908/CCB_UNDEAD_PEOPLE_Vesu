@@ -1,0 +1,10 @@
+{
+  "id": [
+    "farm_horse_silo_1",
+    "farm_horse_roof",
+    "farm_horse_silo_roof"
+  ],
+  "fg": "2farm_6_1",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

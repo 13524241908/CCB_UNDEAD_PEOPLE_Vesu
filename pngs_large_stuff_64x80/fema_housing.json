@@ -1,0 +1,10 @@
+{
+  "id": "fema_housing",
+  "fg": [
+    "fema_housing",
+    "fema_housing_1",
+    "fema_housing",
+    "fema_housing_2"
+  ],
+  "rotates": true
+}

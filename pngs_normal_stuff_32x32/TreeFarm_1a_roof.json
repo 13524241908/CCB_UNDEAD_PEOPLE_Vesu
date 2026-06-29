@@ -1,0 +1,11 @@
+{
+  "id": "TreeFarm_1a_roof",
+  "fg": [
+    "TreeFarm_1a_roof",
+    "TreeFarm_1a_roof_1",
+    "TreeFarm_1a_roof_1",
+    "TreeFarm_1a_roof"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

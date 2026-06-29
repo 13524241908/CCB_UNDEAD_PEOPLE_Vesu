@@ -1,0 +1,11 @@
+{
+  "id": [
+    "s_electronics_roof",
+    "s_electronics_roof_1",
+    "s_electronics_roof_2",
+    "s_thrift_roof"
+  ],
+  "fg": "s_electronics_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

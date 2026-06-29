@@ -1,0 +1,50 @@
+{
+  "id": "f_brambles",
+  "fg": "f_brambles",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_brambles_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_brambles_corner_nw",
+        "f_brambles_corner_ne",
+        "f_brambles_corner_se",
+        "f_brambles_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_brambles_t_connection_n",
+        "f_brambles_t_connection_e",
+        "f_brambles_t_connection_s",
+        "f_brambles_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_brambles_edge_ns",
+        "f_brambles_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_brambles_end_piece_n",
+        "f_brambles_end_piece_e",
+        "f_brambles_end_piece_s",
+        "f_brambles_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_brambles_unconnected"
+    }
+  ]
+}

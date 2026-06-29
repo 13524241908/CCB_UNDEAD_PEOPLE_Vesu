@@ -1,0 +1,9 @@
+{
+  "id": [
+    "isolated_house_farm_roof_gunsmith",
+    "isolated_house_farm_roof_blacksmith"
+  ],
+  "fg": "cabin_prepper",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

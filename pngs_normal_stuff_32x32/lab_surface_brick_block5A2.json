@@ -1,0 +1,11 @@
+{
+  "id": "lab_surface_brick_block5A2",
+  "fg": [
+    "lab_surface_brick_block2A2",
+    "lab_surface_brick_block2A2_1",
+    "lab_surface_brick_block2A2_2",
+    "lab_surface_brick_block2A2_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": "f_alien_weed_3",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "f_alien_weed_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_alien_weed_3_1"
+    }
+  ]
+}

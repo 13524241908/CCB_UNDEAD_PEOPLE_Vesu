@@ -1,0 +1,15 @@
+{
+  "id": "t_slope_down",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_slope_down"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_slope_down_1"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

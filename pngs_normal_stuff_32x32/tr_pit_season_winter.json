@@ -1,0 +1,50 @@
+{
+  "id": "tr_pit_season_winter",
+  "fg": "tr_pit",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "tr_pit_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "tr_pit_corner_nw",
+        "tr_pit_corner_ne",
+        "tr_pit_corner_se",
+        "tr_pit_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "tr_pit_t_connection_n",
+        "tr_pit_t_connection_e",
+        "tr_pit_t_connection_s",
+        "tr_pit_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "tr_pit_edge_ns",
+        "tr_pit_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "tr_pit_end_piece_n",
+        "tr_pit_end_piece_e",
+        "tr_pit_end_piece_s",
+        "tr_pit_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "tr_pit_unconnected"
+    }
+  ]
+}

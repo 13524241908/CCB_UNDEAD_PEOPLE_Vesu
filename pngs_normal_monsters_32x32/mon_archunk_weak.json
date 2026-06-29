@@ -1,0 +1,15 @@
+{
+  "id": "mon_archunk_weak",
+  "fg": [
+    {
+      "weight": 50,
+      "sprite": "mon_archunk_weak"
+    },
+    {
+      "weight": 50,
+      "sprite": "mon_archunk_weak_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true
+}

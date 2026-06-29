@@ -1,0 +1,6 @@
+{
+  "id": "tool_belt",
+  "fg": "overlay_wielded_tool_belt",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": [
+    "farm_lot_wire_straight_h",
+    "farm_lot_wire_straight_h_open"
+  ],
+  "fg": [
+    "farm_lot_wire_straight_v_2",
+    "farm_lot_wire_straight_v_3",
+    "farm_lot_wire_straight_v",
+    "farm_lot_wire_straight_v_1"
+  ],
+  "rotates": true
+}

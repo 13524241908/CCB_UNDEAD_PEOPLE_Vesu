@@ -1,0 +1,50 @@
+{
+  "id": "fd_acid",
+  "fg": "fd_acid",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_acid_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_acid_corner_nw",
+        "fd_acid_corner_ne",
+        "fd_acid_corner_se",
+        "fd_acid_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_acid_t_connection_n",
+        "fd_acid_t_connection_e",
+        "fd_acid_t_connection_s",
+        "fd_acid_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_acid_edge_ns",
+        "fd_acid_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_acid_end_piece_n",
+        "fd_acid_end_piece_e",
+        "fd_acid_end_piece_s",
+        "fd_acid_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_acid_unconnected"
+    }
+  ]
+}

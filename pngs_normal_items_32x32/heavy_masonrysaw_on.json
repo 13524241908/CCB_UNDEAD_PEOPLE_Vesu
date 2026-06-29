@@ -1,0 +1,14 @@
+{
+  "id": "heavy_masonrysaw_on",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "heavy_masonrysaw_on"
+    },
+    {
+      "weight": 1,
+      "sprite": "heavy_masonrysaw_on_1"
+    }
+  ],
+  "animated": true
+}

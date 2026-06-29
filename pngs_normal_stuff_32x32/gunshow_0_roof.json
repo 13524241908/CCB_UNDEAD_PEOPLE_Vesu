@@ -1,0 +1,9 @@
+{
+  "id": [
+    "gunshow_0_roof",
+    "gunshow_1_roof"
+  ],
+  "fg": "campground_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

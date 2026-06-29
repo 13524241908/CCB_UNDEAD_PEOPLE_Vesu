@@ -1,0 +1,9 @@
+{
+  "id": [
+    "billboard_1",
+    "billboard_2"
+  ],
+  "fg": "billboard_1",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

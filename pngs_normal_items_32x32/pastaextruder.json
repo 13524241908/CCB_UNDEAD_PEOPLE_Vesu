@@ -1,0 +1,6 @@
+{
+  "id": "pastaextruder",
+  "fg": "overlay_wielded_pastaextruder",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

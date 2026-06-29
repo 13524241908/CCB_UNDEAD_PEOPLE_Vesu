@@ -1,0 +1,50 @@
+{
+  "id": "fd_gibs_insect",
+  "fg": "fd_gibs_insect",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_gibs_insect_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_gibs_insect_corner_nw",
+        "fd_gibs_insect_corner_ne",
+        "fd_gibs_insect_corner_se",
+        "fd_gibs_insect_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_gibs_insect_t_connection_n",
+        "fd_gibs_insect_t_connection_e",
+        "fd_gibs_insect_t_connection_s",
+        "fd_gibs_insect_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_gibs_insect_edge_ns",
+        "fd_gibs_insect_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_gibs_insect_end_piece_n",
+        "fd_gibs_insect_end_piece_e",
+        "fd_gibs_insect_end_piece_s",
+        "fd_gibs_insect_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_gibs_insect_unconnected"
+    }
+  ]
+}

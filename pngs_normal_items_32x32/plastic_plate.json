@@ -1,0 +1,6 @@
+{
+  "id": "plastic_plate",
+  "fg": "overlay_wielded_plastic_plate",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

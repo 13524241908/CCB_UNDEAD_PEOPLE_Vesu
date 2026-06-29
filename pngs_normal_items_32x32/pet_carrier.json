@@ -1,0 +1,6 @@
+{
+  "id": "pet_carrier",
+  "fg": "overlay_wielded_pet_carrier",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,5 @@
+{
+  "id": "ground_sonar_sense",
+  "fg": "footstep_below",
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": [
+    "mil_base_2b",
+    "mil_base_3b",
+    "mil_base_5b",
+    "mil_base_6b",
+    "mil_base_7b"
+  ],
+  "fg": "mil_base_2b",
+  "rotates": true
+}

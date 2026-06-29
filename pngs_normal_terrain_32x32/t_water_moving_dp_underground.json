@@ -1,0 +1,229 @@
+{
+  "id": "t_water_moving_dp_underground",
+  "fg": "t_water_moving_dp_underground",
+  "bg": "bg_stone_floor",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_8"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_corner_nw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_corner_ne"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_corner_se"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_corner_sw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_8"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_moving_dp_underground_t_connection_n",
+        "t_water_moving_dp_underground_t_connection_e",
+        "t_water_moving_dp_underground_t_connection_s",
+        "t_water_moving_dp_underground_t_connection_w"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_edge_ns"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_edge_ew"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_9"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_11"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_13"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_15"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_17"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_end_piece_n"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_end_piece_e"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_end_piece_s"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_end_piece_w"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_10"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_12"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_14"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_16"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_18"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_19"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_21"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_23"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_25"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_27"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_29"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_dp_underground_31"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vp_wing_mirror_left",
+  "fg": "vp_wing_mirror_left",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_wing_mirror_left_broken"
+    }
+  ]
+}

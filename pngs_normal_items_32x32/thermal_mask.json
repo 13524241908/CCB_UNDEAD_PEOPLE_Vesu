@@ -1,0 +1,6 @@
+{
+  "id": "thermal_mask",
+  "fg": "overlay_wielded_thermal_mask",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "smart_watch",
+    "smart_watch_adv"
+  ],
+  "fg": "overlay_wielded_smart_watch",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

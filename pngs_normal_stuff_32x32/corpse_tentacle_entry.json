@@ -1,0 +1,10 @@
+{
+  "id": "corpse_tentacle_entry",
+  "fg": [
+    "corpse_tentacle_end_piece_s",
+    "corpse_tentacle_end_piece_w",
+    "corpse_tentacle_end_piece_n",
+    "corpse_tentacle_end_piece_e"
+  ],
+  "rotates": true
+}

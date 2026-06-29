@@ -1,0 +1,5 @@
+{
+  "id": "turret_mount",
+  "fg": "overlay_wielded_turret_mount",
+  "rotates": true
+}

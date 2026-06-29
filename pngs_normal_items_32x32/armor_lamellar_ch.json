@@ -1,0 +1,9 @@
+{
+  "id": [
+    "armor_lamellar_ch",
+    "armor_lamellar_lc"
+  ],
+  "fg": "armor_lamellar_ch",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

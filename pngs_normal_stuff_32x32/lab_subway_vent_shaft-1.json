@@ -1,0 +1,11 @@
+{
+  "id": [
+    "lab_subway_vent_shaft-1",
+    "lab_subway_vent_shaft-2",
+    "lab_subway_vent_shaft-3",
+    "lab_subway_vent_shaft-4",
+    "central_lab_shaft"
+  ],
+  "fg": "lab_stairs",
+  "rotates": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vp_water_purifier",
+  "fg": "vp_water_purifier",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_water_purifier_broken"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": [
+    "ranch_camp_10",
+    "ranch_camp_19",
+    "ranch_camp_28",
+    "ranch_camp_37",
+    "ranch_camp_46",
+    "ranch_camp_55",
+    "ranch_camp_64"
+  ],
+  "fg": [
+    "GMLODGE1_2_3",
+    "GMLODGE1_2",
+    "GMLODGE1_2_1",
+    "GMLODGE1_2_2"
+  ],
+  "rotates": true
+}

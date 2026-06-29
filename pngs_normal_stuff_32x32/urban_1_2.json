@@ -1,0 +1,18 @@
+{
+  "id": [
+    "urban_1_2",
+    "urban_2_2",
+    "urban_3_2",
+    "urban_5_2",
+    "urban_4_4",
+    "urban_6_2",
+    "urban_7_2"
+  ],
+  "fg": [
+    "urban_1_2",
+    "urban_1_2_1",
+    "urban_1_2_2",
+    "urban_1_2_3"
+  ],
+  "rotates": true
+}

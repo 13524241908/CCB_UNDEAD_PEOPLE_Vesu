@@ -1,0 +1,19 @@
+{
+  "id": "fd_fatigue_int3",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue"
+    },
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

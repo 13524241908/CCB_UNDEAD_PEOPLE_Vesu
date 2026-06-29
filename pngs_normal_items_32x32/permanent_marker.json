@@ -1,0 +1,6 @@
+{
+  "id": "permanent_marker",
+  "fg": "overlay_wielded_permanent_marker",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

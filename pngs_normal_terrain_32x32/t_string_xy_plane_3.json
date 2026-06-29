@@ -1,0 +1,14 @@
+{
+  "id": "t_string_xy_plane_3",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "t_string_xy_plane_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_string_xy_plane_3_1"
+    }
+  ],
+  "rotates": false
+}

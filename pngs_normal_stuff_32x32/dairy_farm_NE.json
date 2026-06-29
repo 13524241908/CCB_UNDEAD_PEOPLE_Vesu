@@ -1,0 +1,10 @@
+{
+  "id": "dairy_farm_NE",
+  "fg": [
+    "dairy_farm_NE",
+    "dairy_farm_NE_1",
+    "dairy_farm_NE_2",
+    "dairy_farm_NE_3"
+  ],
+  "rotates": true
+}

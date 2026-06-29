@@ -1,0 +1,19 @@
+{
+  "id": "overlay_worn_art_cloak",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_cloak"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_cloak_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_art_cloak_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

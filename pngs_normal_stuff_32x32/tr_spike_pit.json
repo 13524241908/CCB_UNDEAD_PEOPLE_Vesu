@@ -1,0 +1,50 @@
+{
+  "id": "tr_spike_pit",
+  "fg": "tr_spike_pit",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "tr_spike_pit_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "tr_spike_pit_corner_nw",
+        "tr_spike_pit_corner_ne",
+        "tr_spike_pit_corner_se",
+        "tr_spike_pit_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "tr_spike_pit_t_connection_n",
+        "tr_spike_pit_t_connection_e",
+        "tr_spike_pit_t_connection_s",
+        "tr_spike_pit_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "tr_spike_pit_edge_ns",
+        "tr_spike_pit_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "tr_spike_pit_end_piece_n",
+        "tr_spike_pit_end_piece_e",
+        "tr_spike_pit_end_piece_s",
+        "tr_spike_pit_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "tr_spike_pit_unconnected"
+    }
+  ]
+}

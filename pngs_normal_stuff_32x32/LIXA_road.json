@@ -1,0 +1,9 @@
+{
+  "id": [
+    "LIXA_road",
+    "LIXA_entry_2",
+    "LIXA_road_guard"
+  ],
+  "fg": "LIXA_road",
+  "rotates": true
+}

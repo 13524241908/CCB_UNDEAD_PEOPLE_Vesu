@@ -1,0 +1,40 @@
+{
+  "id": "mon_sloth",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_sloth"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_sloth_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_sloth_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_sloth_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_sloth_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_sloth_5"
+    }
+  ],
+  "bg": [
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_bg"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_guilt_bg_1"
+    }
+  ],
+  "animated": true
+}

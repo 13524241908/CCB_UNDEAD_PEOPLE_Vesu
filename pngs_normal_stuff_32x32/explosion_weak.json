@@ -1,0 +1,25 @@
+{
+  "id": "explosion_weak",
+  "fg": "explosion_weak",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "explosion_weak_corner_nw",
+        "explosion_weak_corner_ne",
+        "explosion_weak_corner_se",
+        "explosion_weak_corner_sw"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "explosion_weak_edge_ns",
+        "explosion_weak"
+      ],
+      "bg": "bg_t_lava"
+    }
+  ]
+}

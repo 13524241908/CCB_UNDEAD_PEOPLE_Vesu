@@ -1,0 +1,14 @@
+{
+  "id": [
+    "evac_center_10",
+    "evac_center_15",
+    "evac_center_20"
+  ],
+  "fg": [
+    "evac_center_16_2",
+    "evac_center_16_3",
+    "evac_center_16",
+    "evac_center_16_1"
+  ],
+  "rotates": true
+}

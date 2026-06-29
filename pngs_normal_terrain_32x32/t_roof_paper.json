@@ -1,0 +1,57 @@
+{
+  "id": "t_roof_paper",
+  "fg": "t_roof_paper",
+  "bg": "bg_dirt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_roof_paper_center",
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_roof_paper_corner_nw",
+        "t_roof_paper_corner_ne",
+        "t_roof_paper_corner_se",
+        "t_roof_paper_corner_sw"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_roof_paper_t_connection_n",
+        "t_roof_paper_t_connection_e",
+        "t_roof_paper_t_connection_s",
+        "t_roof_paper_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_roof_paper_edge_ns",
+        "t_roof_paper_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_roof_paper_end_piece_n",
+        "t_roof_paper_end_piece_e",
+        "t_roof_paper_end_piece_s",
+        "t_roof_paper_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_roof_paper_unconnected",
+      "bg": "bg_dirt"
+    }
+  ]
+}

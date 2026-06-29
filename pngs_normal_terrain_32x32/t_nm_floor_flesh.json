@@ -1,0 +1,105 @@
+{
+  "id": "t_nm_floor_flesh",
+  "fg": "t_nm_brain_bg",
+  "bg": "t_nm_cartilage",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": "t_nm_brain_bg"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_nm_floor_flesh_1"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_nm_floor_flesh_2"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_nm_floor_flesh_3"
+        }
+      ],
+      "bg": "t_nm_cartilage"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nm_floor_flesh_corner_nw",
+        "t_nm_floor_flesh_corner_ne",
+        "t_nm_floor_flesh_corner_se",
+        "t_nm_floor_flesh_corner_sw"
+      ],
+      "bg": "t_nm_cartilage"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nm_floor_flesh_t_connection_n",
+        "t_nm_floor_flesh_t_connection_e",
+        "t_nm_floor_flesh_t_connection_s",
+        "t_nm_floor_flesh_t_connection_w"
+      ],
+      "bg": "t_nm_cartilage"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_floor_flesh_edge_ns",
+            "t_nm_floor_flesh_edge_ew"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_floor_flesh_4",
+            "t_nm_floor_flesh_6"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_floor_flesh_8",
+            "t_nm_floor_flesh_5"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_floor_flesh_11",
+            "t_nm_floor_flesh_7"
+          ]
+        }
+      ],
+      "bg": "t_nm_cartilage"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nm_floor_flesh_end_piece_n",
+        "t_nm_floor_flesh_end_piece_e",
+        "t_nm_floor_flesh_end_piece_s",
+        "t_nm_floor_flesh_end_piece_w"
+      ],
+      "bg": "t_nm_cartilage"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_nm_floor_flesh_unconnected",
+        "t_nm_floor_flesh_9",
+        "t_nm_floor_flesh_12",
+        "t_nm_floor_flesh_14"
+      ],
+      "bg": "t_nm_cartilage"
+    }
+  ]
+}

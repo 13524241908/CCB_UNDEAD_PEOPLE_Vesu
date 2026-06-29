@@ -1,0 +1,43 @@
+{
+  "id": "t_pavement_y_hw_air",
+  "fg": "t_pavement_y_hw_air",
+  "bg": [
+    {
+      "weight": 1111,
+      "sprite": "bg_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_center"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_6"
+    }
+  ],
+  "rotates": false
+}

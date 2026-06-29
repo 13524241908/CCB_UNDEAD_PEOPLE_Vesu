@@ -1,0 +1,11 @@
+{
+  "id": [
+    "farm_dairy_twd_second_floor_3",
+    "farm_dairy_twd_second_floor_4",
+    "farm_dairy_twd_3_roof",
+    "farm_dairy_twd_4_roof"
+  ],
+  "fg": "bandit_cabin_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

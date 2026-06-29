@@ -1,0 +1,22 @@
+{
+  "id": "vp_basketsm",
+  "fg": [
+    "vp_basketsm",
+    "vp_basketsm_1",
+    "vp_basketsm_2",
+    "vp_basketsm_3"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_basketsm_broken",
+        "vp_basketsm_broken_1",
+        "vp_basketsm_broken_2",
+        "vp_basketsm_broken_3"
+      ]
+    }
+  ]
+}

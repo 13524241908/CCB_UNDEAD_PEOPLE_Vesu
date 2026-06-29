@@ -1,0 +1,10 @@
+{
+  "id": "f_mailbox",
+  "fg": [
+    "f_mailbox",
+    "f_mailbox_1",
+    "f_mailbox_2",
+    "f_mailbox_3"
+  ],
+  "rotates": true
+}

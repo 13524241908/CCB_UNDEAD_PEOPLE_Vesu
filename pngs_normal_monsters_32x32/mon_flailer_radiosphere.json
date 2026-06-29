@@ -1,0 +1,16 @@
+{
+  "id": "mon_flailer_radiosphere",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_flailer_radiosphere"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_flailer_radiosphere_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": [
+    "dairy_farm_isherwood_NW",
+    "dairy_farm_isherwood_NE",
+    "dairy_farm_isherwood_W",
+    "dairy_farm_isherwood_E"
+  ],
+  "fg": "2farm_1",
+  "rotates": false
+}

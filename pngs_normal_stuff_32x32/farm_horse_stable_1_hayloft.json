@@ -1,0 +1,10 @@
+{
+  "id": [
+    "farm_horse_stable_1_hayloft",
+    "farm_horse_stable_1_roof",
+    "farm_horse_carriage_house_1_roof"
+  ],
+  "fg": "2farm_loft_3",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

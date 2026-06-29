@@ -1,0 +1,32 @@
+{
+  "id": "mon_feral_human_pyrokin3",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_feral_human_pyrokin3_5"
+    }
+  ],
+  "bg": "mon_spawn_raptor_dusted_bg",
+  "rotates": false,
+  "animated": true
+}

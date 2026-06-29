@@ -1,0 +1,10 @@
+{
+  "id": [
+    "vp_frame_wood_deck",
+    "frame_wood_deck",
+    "vp_wheel_skateboard",
+    "vp_wheel_mount_skateboard"
+  ],
+  "fg": "vp_frame_wood_deck",
+  "rotates": false
+}

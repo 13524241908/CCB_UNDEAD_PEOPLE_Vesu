@@ -1,0 +1,9 @@
+{
+  "id": [
+    "gambling_hall_roof",
+    "gambling_hall_upper_roof"
+  ],
+  "fg": "gambling_hall_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

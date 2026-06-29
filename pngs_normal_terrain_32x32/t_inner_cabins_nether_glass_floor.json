@@ -1,0 +1,57 @@
+{
+  "id": "t_inner_cabins_nether_glass_floor",
+  "fg": "nether_glass_imperial_road",
+  "bg": "t_nether_glass_floor_clairvoyance_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_nether_glass_floor_clairvoyance_center",
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nether_glass_floor_clairvoyance_corner_nw",
+        "t_nether_glass_floor_clairvoyance_corner_ne",
+        "t_nether_glass_floor_clairvoyance_corner_se",
+        "t_nether_glass_floor_clairvoyance_corner_sw"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nether_glass_floor_clairvoyance_t_connection_n",
+        "t_nether_glass_floor_clairvoyance_t_connection_e",
+        "t_nether_glass_floor_clairvoyance_t_connection_s",
+        "t_nether_glass_floor_clairvoyance_t_connection_w"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_nether_glass_floor_clairvoyance_edge_ns",
+        "t_nether_glass_floor_clairvoyance_edge_ew"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nether_glass_floor_clairvoyance_end_piece_n",
+        "t_nether_glass_floor_clairvoyance_end_piece_e",
+        "t_nether_glass_floor_clairvoyance_end_piece_s",
+        "t_nether_glass_floor_clairvoyance_end_piece_w"
+      ],
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_nether_glass_floor_clairvoyance_unconnected",
+      "bg": "t_nether_glass_floor_clairvoyance_bg"
+    }
+  ]
+}

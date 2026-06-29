@@ -1,0 +1,67 @@
+{
+  "id": "f_wreckage",
+  "fg": "f_wreckage",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_wreckage_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_wreckage_corner_nw",
+        "f_wreckage_corner_ne",
+        "f_wreckage_corner_se",
+        "f_wreckage_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_wreckage_t_connection_n",
+        "f_wreckage_t_connection_e",
+        "f_wreckage_t_connection_s",
+        "f_wreckage_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_wreckage_edge_ns",
+        "f_wreckage_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_wreckage_end_piece_n",
+        "f_wreckage_end_piece_e",
+        "f_wreckage_end_piece_s",
+        "f_wreckage_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "f_wreckage_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "f_wreckage_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "f_wreckage_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "f_wreckage_3"
+        }
+      ]
+    }
+  ]
+}

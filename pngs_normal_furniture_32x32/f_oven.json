@@ -1,0 +1,14 @@
+{
+  "id": [
+    "f_oven",
+    "ap_oven",
+    "fake_oven"
+  ],
+  "rotates": true,
+  "fg": [
+    "f_oven",
+    "f_oven_1",
+    "f_oven_2",
+    "f_oven_3"
+  ]
+}

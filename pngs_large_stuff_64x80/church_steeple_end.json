@@ -1,0 +1,10 @@
+{
+  "id": [
+    "church_steeple_end",
+    "church_roof_1",
+    "church_steeple_roof"
+  ],
+  "fg": "church_steeple_end",
+  "bg": "bg_big_open_air",
+  "rotates": false
+}

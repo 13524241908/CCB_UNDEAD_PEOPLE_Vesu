@@ -1,0 +1,32 @@
+{
+  "id": "mon_feral_human_vita2",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita2_5"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

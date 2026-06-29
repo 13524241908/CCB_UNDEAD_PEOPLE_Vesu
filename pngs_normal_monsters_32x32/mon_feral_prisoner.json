@@ -1,0 +1,20 @@
+{
+  "id": "mon_feral_prisoner",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_prisoner"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_prisoner_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_prisoner_2"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

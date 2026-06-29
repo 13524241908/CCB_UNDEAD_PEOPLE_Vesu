@@ -1,0 +1,75 @@
+{
+  "id": "mon_zombie_child",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_11"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_12"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_13"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_14"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_15"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_dusted_16"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

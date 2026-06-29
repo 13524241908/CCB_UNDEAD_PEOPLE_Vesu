@@ -1,0 +1,10 @@
+{
+  "id": "sand_pit_NW_down",
+  "fg": [
+    "sand_pit_NW_down",
+    "sand_pit_NW_down_1",
+    "sand_pit_NW_down_2",
+    "sand_pit_NW_down_3"
+  ],
+  "rotates": true
+}

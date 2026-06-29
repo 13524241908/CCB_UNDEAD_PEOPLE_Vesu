@@ -1,0 +1,6 @@
+{
+  "id": "turret_controls",
+  "fg": "overlay_wielded_turret_controls",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

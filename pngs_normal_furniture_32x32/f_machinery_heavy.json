@@ -1,0 +1,58 @@
+{
+  "id": [
+    "f_machinery_heavy",
+    "t_machinery_heavy"
+  ],
+  "fg": "f_machinery_heavy",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_machinery_heavy_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_machinery_heavy_corner_nw",
+        "f_machinery_heavy_corner_ne",
+        "f_machinery_heavy_corner_se",
+        "f_machinery_heavy_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_machinery_heavy_t_connection_n",
+        "f_machinery_heavy_t_connection_e",
+        "f_machinery_heavy_t_connection_s",
+        "f_machinery_heavy_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_machinery_heavy_edge_ns",
+        "f_machinery_heavy_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_machinery_heavy_end_piece_n",
+        "f_machinery_heavy_end_piece_e",
+        "f_machinery_heavy_end_piece_s",
+        "f_machinery_heavy_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_machinery_heavy_unconnected",
+        "f_machinery_heavy_unconnected",
+        "f_machinery_heavy_unconnected",
+        "f_machinery_heavy_unconnected"
+      ]
+    }
+  ]
+}

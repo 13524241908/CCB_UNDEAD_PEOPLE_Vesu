@@ -1,0 +1,6 @@
+{
+  "id": "mon_dispatch_military",
+  "fg": "mon_dispatch_military",
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": true
+}

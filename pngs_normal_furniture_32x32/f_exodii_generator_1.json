@@ -1,0 +1,53 @@
+{
+  "id": "f_exodii_generator_1",
+  "fg": "f_exodii_generator_1",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_exodii_generator_1_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_exodii_generator_1_corner_nw",
+        "f_exodii_generator_1_corner_ne",
+        "f_exodii_generator_1_corner_se",
+        "f_exodii_generator_1_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_exodii_generator_1_t_connection_n",
+        "f_exodii_generator_1_t_connection_e",
+        "f_exodii_generator_1_t_connection_s",
+        "f_exodii_generator_1_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_exodii_generator_1_edge_ns",
+        "f_exodii_generator_1_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_exodii_generator_1_end_piece_n",
+        "f_exodii_generator_1_end_piece_e",
+        "f_exodii_generator_1_end_piece_s",
+        "f_exodii_generator_1_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_exodii_generator_1_unconnected",
+        "f_exodii_generator_1_unconnected"
+      ]
+    }
+  ]
+}

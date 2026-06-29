@@ -1,0 +1,11 @@
+{
+  "id": "hw_trumpet_bridge_1_1",
+  "fg": [
+    "hw_trumpet_bridge_0_1",
+    "hw_trumpet_bridge_0_1_1",
+    "hw_trumpet_bridge_0_1_2",
+    "hw_trumpet_bridge_0_1_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

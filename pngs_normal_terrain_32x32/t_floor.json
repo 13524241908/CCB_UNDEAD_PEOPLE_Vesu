@@ -1,0 +1,106 @@
+{
+  "id": "t_floor",
+  "fg": "t_railing_center_bg",
+  "bg": "bg_dirt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 999,
+          "sprite": "t_floor_center"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_5"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_6"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_7"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_8"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_9"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_10"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_11"
+        }
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_floor_corner_nw",
+        "t_floor_corner_ne",
+        "t_floor_corner_se",
+        "t_floor_corner_sw"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_floor_t_connection_n",
+        "t_floor_t_connection_e",
+        "t_floor_t_connection_s",
+        "t_floor_t_connection_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_floor_edge_ns",
+        "t_floor_edge_ew"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_floor_end_piece_n",
+        "t_floor_end_piece_e",
+        "t_floor_end_piece_s",
+        "t_floor_end_piece_w"
+      ],
+      "bg": "bg_dirt"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_floor_unconnected",
+      "bg": "bg_dirt"
+    }
+  ]
+}

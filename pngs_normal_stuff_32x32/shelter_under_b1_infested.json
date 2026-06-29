@@ -1,0 +1,39 @@
+{
+  "id": [
+    "shelter_under_b1_infested",
+    "shelter_under_2_infested",
+    "shelter_under_2b_infested",
+    "shelter_under_1_infested",
+    "shelter_under_infested",
+    "shelter_under_2_unfinished",
+    "shelter_under_1b_unfinished",
+    "shelter_under_1_unfinished",
+    "shelter_under_unfinished",
+    "shelter_under_2_vandal",
+    "shelter_under_1b_vandal",
+    "shelter_under_1_vandal",
+    "shelter_under_vandal",
+    "shelter_under_2",
+    "shelter_under_1b",
+    "shelter_under_1"
+  ],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "cabin_prepper_shelter"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_3"
+    }
+  ],
+  "rotates": false
+}

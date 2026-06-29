@@ -1,0 +1,39 @@
+{
+  "id": "mon_structural_spur",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_structural_spur_7"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

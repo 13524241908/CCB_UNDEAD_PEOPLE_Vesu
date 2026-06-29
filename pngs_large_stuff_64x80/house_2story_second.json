@@ -1,0 +1,10 @@
+{
+  "id": "house_2story_second",
+  "fg": [
+    "house_2story_second",
+    "house_2story_second_1",
+    "house_2story_second_2",
+    "house_2story_second_3"
+  ],
+  "rotates": true
+}

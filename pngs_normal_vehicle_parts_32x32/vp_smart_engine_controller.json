@@ -1,0 +1,12 @@
+{
+  "id": "vp_smart_engine_controller",
+  "fg": "vp_smart_engine_controller",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_smart_engine_controller_broken"
+    }
+  ]
+}

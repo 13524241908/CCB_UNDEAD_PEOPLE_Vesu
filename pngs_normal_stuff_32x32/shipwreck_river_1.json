@@ -1,0 +1,11 @@
+{
+  "id": "shipwreck_river_1",
+  "fg": [
+    "shipwreck_river_1",
+    "shipwreck_river_1_1",
+    "shipwreck_river_1_2",
+    "shipwreck_river_1_3"
+  ],
+  "bg": "bg_dirt",
+  "rotates": true
+}

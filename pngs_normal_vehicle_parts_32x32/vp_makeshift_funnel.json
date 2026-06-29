@@ -1,0 +1,12 @@
+{
+  "id": "vp_makeshift_funnel",
+  "fg": "vp_makeshift_funnel",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_makeshift_funnel_broken"
+    }
+  ]
+}

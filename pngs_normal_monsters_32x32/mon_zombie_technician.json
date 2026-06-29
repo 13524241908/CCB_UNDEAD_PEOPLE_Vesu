@@ -1,0 +1,23 @@
+{
+  "id": "mon_zombie_technician",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_technician"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_technician_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_technician_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_technician_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "corpse_bowels_lcorner",
+  "fg": [
+    "corpse_bowels_lcorner",
+    "corpse_bowels_lcorner_1",
+    "corpse_bowels_lcorner_2",
+    "corpse_bowels_lcorner_3"
+  ],
+  "rotates": true
+}

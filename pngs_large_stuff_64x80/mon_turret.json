@@ -1,0 +1,14 @@
+{
+  "id": "mon_turret",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_turret"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_turret_1"
+    }
+  ],
+  "animated": true
+}

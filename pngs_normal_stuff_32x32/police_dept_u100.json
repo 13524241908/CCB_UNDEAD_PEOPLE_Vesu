@@ -1,0 +1,10 @@
+{
+  "id": "police_dept_u100",
+  "fg": [
+    "police_dept_u100",
+    "police_dept_u100_1",
+    "police_dept_u100_2",
+    "police_dept_u100_3"
+  ],
+  "rotates": true
+}

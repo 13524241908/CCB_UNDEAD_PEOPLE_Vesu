@@ -1,0 +1,15 @@
+{
+  "id": "t_basaltslope_up",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_basaltslope_up"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_basaltslope_up_1"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

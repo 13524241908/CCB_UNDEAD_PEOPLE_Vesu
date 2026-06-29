@@ -1,0 +1,15 @@
+{
+  "id": "mon_zombie_reenactor",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_reenactor"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_reenactor_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

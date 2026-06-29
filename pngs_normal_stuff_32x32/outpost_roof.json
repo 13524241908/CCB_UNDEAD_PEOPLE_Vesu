@@ -1,0 +1,9 @@
+{
+  "id": [
+    "outpost_roof",
+    "bunker_roof"
+  ],
+  "fg": "outpost_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

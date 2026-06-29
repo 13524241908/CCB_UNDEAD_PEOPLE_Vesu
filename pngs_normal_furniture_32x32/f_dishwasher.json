@@ -1,0 +1,13 @@
+{
+  "id": [
+    "f_dishwasher",
+    "ap_dishwasher"
+  ],
+  "rotates": true,
+  "fg": [
+    "f_dishwasher",
+    "f_dishwasher_1",
+    "f_dishwasher_2",
+    "f_dishwasher_3"
+  ]
+}

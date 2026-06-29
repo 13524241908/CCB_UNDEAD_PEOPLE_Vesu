@@ -1,0 +1,10 @@
+{
+  "id": "lab_surface_parking_blockD1",
+  "fg": [
+    "lab_surface_parking_blockD1",
+    "lab_surface_parking_blockD1_1",
+    "lab_surface_parking_blockD1_2",
+    "lab_surface_parking_blockD1_3"
+  ],
+  "rotates": true
+}

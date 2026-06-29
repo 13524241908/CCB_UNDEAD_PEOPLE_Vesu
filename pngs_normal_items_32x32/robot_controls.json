@@ -1,0 +1,6 @@
+{
+  "id": "robot_controls",
+  "fg": "overlay_wielded_robot_controls",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

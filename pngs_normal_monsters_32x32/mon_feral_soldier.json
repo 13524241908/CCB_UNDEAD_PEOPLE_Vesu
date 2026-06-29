@@ -1,0 +1,16 @@
+{
+  "id": "mon_feral_soldier",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_soldier"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_soldier_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

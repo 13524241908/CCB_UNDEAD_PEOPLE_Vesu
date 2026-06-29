@@ -1,0 +1,16 @@
+{
+  "id": "mon_feral_maid_knife",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_feral_maid_knife"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_feral_maid_knife_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false,
+  "animated": false
+}

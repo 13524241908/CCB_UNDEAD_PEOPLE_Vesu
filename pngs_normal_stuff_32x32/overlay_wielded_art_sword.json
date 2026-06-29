@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_sword",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_sword"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_sword_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_art_sword_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

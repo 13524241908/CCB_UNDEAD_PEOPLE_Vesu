@@ -1,0 +1,10 @@
+{
+  "id": [
+    "recyclecenter_roof",
+    "recyclecenter_roof_1",
+    "recyclecenter_roof_2"
+  ],
+  "fg": "recyclecenter_roof",
+  "bg": "2farm_loft_3_bg",
+  "rotates": false
+}

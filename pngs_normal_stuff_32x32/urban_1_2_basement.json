@@ -1,0 +1,17 @@
+{
+  "id": [
+    "urban_1_2_basement",
+    "urban_2_2_basement",
+    "urban_3_2_basement",
+    "urban_4_2",
+    "urban_5_2_basement",
+    "urban_6_2_basement"
+  ],
+  "fg": [
+    "urban_1_2_basement",
+    "urban_1_2_basement_1",
+    "urban_1_2_basement_2",
+    "urban_1_2_basement_3"
+  ],
+  "rotates": true
+}

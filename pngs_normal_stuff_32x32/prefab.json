@@ -1,0 +1,10 @@
+{
+  "id": "prefab",
+  "fg": [
+    "prefab",
+    "prefab_1",
+    "prefab_2",
+    "prefab_3"
+  ],
+  "rotates": true
+}

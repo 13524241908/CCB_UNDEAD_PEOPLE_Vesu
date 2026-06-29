@@ -1,0 +1,5 @@
+{
+  "id": "water",
+  "fg": "overlay_wielded_water",
+  "rotates": false
+}

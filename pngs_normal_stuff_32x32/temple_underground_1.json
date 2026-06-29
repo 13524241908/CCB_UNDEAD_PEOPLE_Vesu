@@ -1,0 +1,28 @@
+{
+  "id": [
+    "temple_underground_1",
+    "temple_underground_2",
+    "temple_underground_3",
+    "temple_underground_4",
+    "temple_finale"
+  ],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "cabin_prepper_shelter"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "sewage_treatment_0_0_-1_3"
+    }
+  ],
+  "rotates": false
+}

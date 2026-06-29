@@ -1,0 +1,19 @@
+{
+  "id": "mon_zombie_crawler_pupa_decoy",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa_2"
+    }
+  ],
+  "rotates": false,
+  "animated": true
+}

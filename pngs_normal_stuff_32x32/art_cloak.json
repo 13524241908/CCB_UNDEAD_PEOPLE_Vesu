@@ -1,0 +1,19 @@
+{
+  "id": "art_cloak",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_cloak"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_cloak_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_cloak_2"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "overlay_wielded_pipe_tobacco",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_pipe_tobacco"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_pipe_tobacco_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_pipe_tobacco_2"
+    }
+  ],
+  "animated": true
+}

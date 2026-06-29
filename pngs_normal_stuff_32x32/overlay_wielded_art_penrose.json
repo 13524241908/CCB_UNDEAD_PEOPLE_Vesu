@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_art_penrose",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_penrose"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_penrose_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_penrose_2"
+    }
+  ],
+  "animated": true,
+  "rotates": false
+}

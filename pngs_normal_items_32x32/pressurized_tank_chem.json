@@ -1,0 +1,6 @@
+{
+  "id": "pressurized_tank_chem",
+  "fg": "pressurized_tank_chem",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

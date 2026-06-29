@@ -1,0 +1,23 @@
+{
+  "id": "mon_archunk_strong",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_archunk_strong"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_archunk_strong_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_archunk_strong_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_archunk_strong_3"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "animated": true
+}

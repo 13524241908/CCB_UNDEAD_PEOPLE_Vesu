@@ -1,0 +1,93 @@
+{
+  "id": "t_nm_brain",
+  "fg": "t_nm_brain",
+  "bg": "t_nm_brain_bg",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_nm_brain",
+        "t_nm_brain_1",
+        "t_nm_brain_2",
+        "t_nm_brain_3"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nm_brain_corner_nw",
+        "t_nm_brain_corner_ne",
+        "t_nm_brain_corner_se",
+        "t_nm_brain_corner_sw"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nm_brain_t_connection_n",
+        "t_nm_brain_t_connection_e",
+        "t_nm_brain_t_connection_s",
+        "t_nm_brain_t_connection_w"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_brain_edge_ns",
+            "t_nm_brain_edge_ew"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_brain_4",
+            "t_nm_brain_6"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_brain_8",
+            "t_nm_brain_5"
+          ]
+        },
+        {
+          "weight": 10,
+          "sprite": [
+            "t_nm_brain_11",
+            "t_nm_brain_7"
+          ]
+        }
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nm_brain_end_piece_n",
+        "t_nm_brain_end_piece_e",
+        "t_nm_brain_end_piece_s",
+        "t_nm_brain_end_piece_w"
+      ],
+      "bg": "t_nm_brain_bg"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_nm_brain_unconnected",
+        "t_nm_brain_9",
+        "t_nm_brain_12",
+        "t_nm_brain_14"
+      ],
+      "bg": "t_nm_brain_bg"
+    }
+  ]
+}

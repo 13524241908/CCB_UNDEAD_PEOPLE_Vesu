@@ -1,0 +1,8 @@
+{
+  "id": [
+    "mil_base_minefield_ne",
+    "mil_base_minefield_end"
+  ],
+  "fg": "mil_base_minefield_gate_left",
+  "rotates": true
+}

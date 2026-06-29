@@ -1,0 +1,30 @@
+{
+  "id": [
+    "microlab_generic",
+    "microlab_generic_hallway_start",
+    "microlab_generic_firebreak",
+    "microlab_generic_hallway",
+    "microlab_generic_edge_room_connector",
+    "microlab_reactor",
+    "microlab_reactor_b",
+    "microlab_portal_dressroom",
+    "microlab_portal_MSU14",
+    "microlab_portal_security1",
+    "microlab_portal_security2",
+    "microlab_portal_security3",
+    "microlab_portal_security4",
+    "microlab_portal_security5",
+    "microlab_portal_security6",
+    "microlab_portal_security7",
+    "microlab_portal_security8",
+    "microlab_portal_security_hallway1",
+    "microlab_portal_security_hallway2",
+    "microlab_distorted_hallway_isolated",
+    "microlab_distorted_hallway",
+    "microlab_distorted_hallway_end",
+    "microlab_ratkin_edge",
+    "microlab_ratkin"
+  ],
+  "fg": "microlab_generic",
+  "rotates": false
+}

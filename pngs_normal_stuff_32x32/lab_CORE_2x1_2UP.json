@@ -1,0 +1,9 @@
+{
+  "id": [
+    "lab_CORE_2x1_2UP",
+    "lab_CORE_2x1_1UP",
+    "lab_CORE_2x1_2DN",
+    "lab_CORE_2x1_1DN"
+  ],
+  "fg": "lab_CORE_2x1_2UP"
+}

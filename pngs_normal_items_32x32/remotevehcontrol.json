@@ -1,0 +1,6 @@
+{
+  "id": "remotevehcontrol",
+  "fg": "overlay_wielded_remotevehcontrol",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

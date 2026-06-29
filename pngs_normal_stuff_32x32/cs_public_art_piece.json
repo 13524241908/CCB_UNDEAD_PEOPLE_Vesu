@@ -1,0 +1,10 @@
+{
+  "id": "cs_public_art_piece",
+  "fg": [
+    "cs_public_art_piece",
+    "cs_public_art_piece_1",
+    "cs_public_art_piece_2",
+    "cs_public_art_piece_3"
+  ],
+  "rotates": true
+}

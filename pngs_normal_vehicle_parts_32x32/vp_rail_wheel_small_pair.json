@@ -1,0 +1,12 @@
+{
+  "id": "vp_rail_wheel_small_pair",
+  "fg": "vp_rail_wheel_small_pair",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_rail_wheel_small_pair_broken"
+    }
+  ]
+}

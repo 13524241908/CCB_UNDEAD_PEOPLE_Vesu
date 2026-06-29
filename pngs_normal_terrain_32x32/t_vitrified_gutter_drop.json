@@ -1,0 +1,57 @@
+{
+  "id": "t_vitrified_gutter_drop",
+  "fg": "t_vitrified_gutter_drop",
+  "bg": "nether_glass_imperial_road",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_vitrified_gutter_drop",
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop",
+        "t_vitrified_gutter_drop"
+      ],
+      "bg": "nether_glass_imperial_road"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_vitrified_gutter_drop",
+      "bg": "nether_glass_imperial_road"
+    }
+  ]
+}

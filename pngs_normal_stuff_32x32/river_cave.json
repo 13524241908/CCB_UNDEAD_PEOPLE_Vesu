@@ -1,0 +1,49 @@
+{
+  "id": "river_cave",
+  "fg": "river_cave",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "river_cave"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "river_cave_corner_nw",
+        "river_cave_corner_ne",
+        "river_cave_corner_se",
+        "river_cave_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "river_cave_t_connection_n",
+        "river_cave_t_connection_e",
+        "river_cave_t_connection_s",
+        "river_cave_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "river_cave_edge_ns",
+        "river_cave_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "river_cave_end_piece_n",
+        "river_cave_end_piece_e",
+        "river_cave_end_piece_s",
+        "river_cave_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "river_cave"
+    }
+  ]
+}

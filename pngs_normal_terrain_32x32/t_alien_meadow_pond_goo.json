@@ -1,0 +1,229 @@
+{
+  "id": "t_alien_meadow_pond_goo",
+  "fg": "t_nether_water_sh",
+  "bg": "t_alien_meadow_grass_8",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_center"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_8"
+        }
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_corner_nw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_corner_ne"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_corner_se"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_corner_sw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_9"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_11"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_13"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_15"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_17"
+        }
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nether_water_sh_t_connection_n",
+        "t_nether_water_sh_t_connection_e",
+        "t_nether_water_sh_t_connection_s",
+        "t_nether_water_sh_t_connection_w"
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_edge_ns"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_edge_ew"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_10"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_12"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_14"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_16"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_18"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_20"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_22"
+        }
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_end_piece_n"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_end_piece_e"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_end_piece_s"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_end_piece_w"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_19"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_21"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_23"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_25"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_27"
+        }
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_24"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_26"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_28"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_30"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_32"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_34"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_36"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_nether_water_sh_38"
+        }
+      ],
+      "bg": "t_alien_meadow_grass_8"
+    }
+  ]
+}

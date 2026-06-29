@@ -1,0 +1,6 @@
+{
+  "id": "solar_cell",
+  "fg": "overlay_wielded_solar_cell",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

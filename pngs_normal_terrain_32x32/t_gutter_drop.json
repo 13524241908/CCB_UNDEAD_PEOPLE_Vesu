@@ -1,0 +1,56 @@
+{
+  "id": "t_gutter_drop",
+  "fg": "t_gutter_drop",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_gutter_drop_center",
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_gutter_drop_corner_nw",
+        "t_gutter_drop_corner_ne",
+        "t_gutter_drop_corner_se",
+        "t_gutter_drop_corner_sw"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_gutter_drop_t_connection_n",
+        "t_gutter_drop_t_connection_e",
+        "t_gutter_drop_t_connection_s",
+        "t_gutter_drop_t_connection_w"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_gutter_drop_edge_ns",
+        "t_gutter_drop_edge_ew"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_gutter_drop_end_piece_n",
+        "t_gutter_drop_end_piece_e",
+        "t_gutter_drop_end_piece_s",
+        "t_gutter_drop_end_piece_w"
+      ],
+      "bg": "bg_pavement"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_gutter_drop_unconnected",
+      "bg": "bg_pavement"
+    }
+  ]
+}

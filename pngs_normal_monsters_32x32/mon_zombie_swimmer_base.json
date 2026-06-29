@@ -1,0 +1,15 @@
+{
+  "id": "mon_zombie_swimmer_base",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swimmer_base"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swimmer_base_1"
+    }
+  ],
+  "bg": "combat_exoskeleton_heavy_bg",
+  "rotates": false
+}

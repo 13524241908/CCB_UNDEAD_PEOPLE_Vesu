@@ -1,0 +1,6 @@
+{
+  "id": "welder",
+  "fg": "overlay_wielded_welder",
+  "bg": "10mmP_bg",
+  "rotates": false
+}

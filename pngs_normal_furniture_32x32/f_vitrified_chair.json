@@ -1,0 +1,10 @@
+{
+  "id": "f_vitrified_chair",
+  "fg": [
+    "f_vitrified_chair",
+    "f_vitrified_chair_1",
+    "f_vitrified_chair_2",
+    "f_vitrified_chair_3"
+  ],
+  "rotates": true
+}

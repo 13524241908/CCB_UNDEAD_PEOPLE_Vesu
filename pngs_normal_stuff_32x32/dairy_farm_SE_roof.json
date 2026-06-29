@@ -1,0 +1,11 @@
+{
+  "id": "dairy_farm_SE_roof",
+  "fg": [
+    "dairy_farm_SE_roof",
+    "dairy_farm_SE_roof_1",
+    "dairy_farm_SE_roof_2",
+    "dairy_farm_SE_roof_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

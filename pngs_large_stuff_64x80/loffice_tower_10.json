@@ -1,0 +1,15 @@
+{
+  "id": [
+    "loffice_tower_10",
+    "loffice_tower_10b",
+    "loffice_tower_14"
+  ],
+  "fg": [
+    "loffice_tower_9_1",
+    "loffice_tower_9_2",
+    "loffice_tower_9_3",
+    "loffice_tower_9"
+  ],
+  "bg": "bg_big_open_air",
+  "rotates": true
+}

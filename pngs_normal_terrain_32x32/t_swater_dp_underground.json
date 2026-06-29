@@ -1,0 +1,229 @@
+{
+  "id": "t_swater_dp_underground",
+  "fg": "t_metal_pontoon_dp_bg",
+  "bg": "bg_stone_floor",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_center"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_8"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_corner_nw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_corner_ne"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_corner_se"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_corner_sw"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_9"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_11"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_13"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_15"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_17"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_swater_dp_t_connection_n",
+        "t_swater_dp_t_connection_e",
+        "t_swater_dp_t_connection_s",
+        "t_swater_dp_t_connection_w"
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_edge_ns"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_edge_ew"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_10"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_12"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_14"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_16"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_18"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_20"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_22"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_end_piece_n"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_end_piece_e"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_end_piece_s"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_end_piece_w"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_19"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_21"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_23"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_25"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_27"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_unconnected"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_24"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_26"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_28"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_30"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_32"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_34"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_36"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_dp_38"
+        }
+      ],
+      "bg": "bg_stone_floor"
+    }
+  ]
+}

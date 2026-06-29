@@ -1,0 +1,413 @@
+{
+  "id": "t_alien_meadow_grass_long",
+  "fg": "t_alien_meadow_grass",
+  "bg": "bg_dirt",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_center"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_1"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_2"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_3"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_4"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_5"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_6"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_7"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_8"
+        },
+        {
+          "weight": 10,
+          "sprite": "t_alien_meadow_grass_9"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_alien_meadow_grass_corner_nw",
+        "t_alien_meadow_grass_corner_ne",
+        "t_alien_meadow_grass_corner_se",
+        "t_alien_meadow_grass_corner_sw"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_alien_meadow_grass_t_connection_n",
+        "t_alien_meadow_grass_t_connection_e",
+        "t_alien_meadow_grass_t_connection_s",
+        "t_alien_meadow_grass_t_connection_w"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_alien_meadow_grass_edge_ns",
+        "t_alien_meadow_grass_edge_ew"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_alien_meadow_grass_end_piece_n",
+        "t_alien_meadow_grass_end_piece_e",
+        "t_alien_meadow_grass_end_piece_s",
+        "t_alien_meadow_grass_end_piece_w"
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 20,
+          "sprite": "t_alien_meadow_grass_unconnected"
+        },
+        {
+          "weight": 20,
+          "sprite": "t_alien_meadow_grass_10"
+        },
+        {
+          "weight": 20,
+          "sprite": "t_alien_meadow_grass_12"
+        },
+        {
+          "weight": 20,
+          "sprite": "t_alien_meadow_grass_14"
+        },
+        {
+          "weight": 20,
+          "sprite": "t_alien_meadow_grass_16"
+        }
+      ],
+      "bg": [
+        {
+          "weight": 40,
+          "sprite": "bg_dirt"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt2"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt3"
+        },
+        {
+          "weight": 30,
+          "sprite": "bg_t_dirt4"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt5"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt6"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt7"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt8"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt9"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt10"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt11"
+        },
+        {
+          "weight": 1,
+          "sprite": "bg_t_dirt12"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "string_dimension_utility_tunnel_straight",
+  "fg": [
+    "sewer_edge_ns",
+    "sewer_edge_ew"
+  ],
+  "rotates": true
+}

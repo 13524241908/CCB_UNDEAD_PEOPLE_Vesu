@@ -1,0 +1,24 @@
+{
+  "id": "molotov_lit",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "molotov_lit"
+    },
+    {
+      "weight": 10,
+      "sprite": "molotov_lit_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "molotov_lit_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "molotov_lit_3"
+    }
+  ],
+  "bg": "10mmP_bg",
+  "animated": true,
+  "rotates": false
+}

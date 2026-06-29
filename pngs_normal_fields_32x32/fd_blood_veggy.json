@@ -1,0 +1,50 @@
+{
+  "id": "fd_blood_veggy",
+  "fg": "fd_blood_veggy",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_blood_veggy_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_blood_veggy_corner_nw",
+        "fd_blood_veggy_corner_ne",
+        "fd_blood_veggy_corner_se",
+        "fd_blood_veggy_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_blood_veggy_t_connection_n",
+        "fd_blood_veggy_t_connection_e",
+        "fd_blood_veggy_t_connection_s",
+        "fd_blood_veggy_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_blood_veggy_edge_ns",
+        "fd_blood_veggy_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_blood_veggy_end_piece_n",
+        "fd_blood_veggy_end_piece_e",
+        "fd_blood_veggy_end_piece_s",
+        "fd_blood_veggy_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_blood_veggy_unconnected"
+    }
+  ]
+}

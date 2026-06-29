@@ -1,0 +1,50 @@
+{
+  "id": "f_ground_cable",
+  "fg": "f_ground_cable",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_ground_cable_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_ground_cable_corner_nw",
+        "f_ground_cable_corner_ne",
+        "f_ground_cable_corner_se",
+        "f_ground_cable_corner_sw"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_ground_cable_t_connection_n",
+        "f_ground_cable_t_connection_e",
+        "f_ground_cable_t_connection_s",
+        "f_ground_cable_t_connection_w"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_ground_cable_edge_ns",
+        "f_ground_cable_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_ground_cable_end_piece_n",
+        "f_ground_cable_end_piece_e",
+        "f_ground_cable_end_piece_s",
+        "f_ground_cable_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_ground_cable_unconnected"
+    }
+  ]
+}

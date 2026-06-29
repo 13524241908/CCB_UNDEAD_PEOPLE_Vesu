@@ -1,0 +1,114 @@
+{
+  "id": "t_nl_metal_wall_overgrown",
+  "fg": "t_nl_metal_wall",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_nl_metal_wall_center",
+      "bg": "t_junk_floor"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nl_metal_wall_corner_nw",
+        "t_nl_metal_wall_corner_ne",
+        "t_nl_metal_wall_corner_se",
+        "t_nl_metal_wall_corner_sw"
+      ],
+      "bg": "t_junk_floor"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_t_connection_n",
+            "t_nl_metal_wall_t_connection_e",
+            "t_nl_metal_wall_t_connection_s",
+            "t_nl_metal_wall_t_connection_w"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_t_connection_n",
+            "t_nl_metal_wall_t_connection_e",
+            "t_nl_metal_wall_4",
+            "t_nl_metal_wall_t_connection_w"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_t_connection_n",
+            "t_nl_metal_wall_t_connection_e",
+            "t_nl_metal_wall_5",
+            "t_nl_metal_wall_t_connection_w"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_t_connection_n",
+            "t_nl_metal_wall_t_connection_e",
+            "t_nl_metal_wall_6",
+            "t_nl_metal_wall_t_connection_w"
+          ]
+        }
+      ],
+      "bg": "t_junk_floor"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_edge_ns",
+            "t_nl_metal_wall_edge_ew"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_2",
+            "t_nl_metal_wall_3"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_7",
+            "t_nl_metal_wall_9"
+          ]
+        },
+        {
+          "weight": 25,
+          "sprite": [
+            "t_nl_metal_wall_11",
+            "t_nl_metal_wall_13"
+          ]
+        }
+      ],
+      "bg": "t_junk_floor"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nl_metal_wall_end_piece_n",
+        "t_nl_metal_wall_end_piece_e",
+        "t_nl_metal_wall_end_piece_s",
+        "t_nl_metal_wall_end_piece_w"
+      ],
+      "bg": "t_junk_floor"
+    },
+    {
+      "id": "unconnected",
+      "fg": "scarlet_scrap_metal_spire",
+      "bg": "t_junk_floor"
+    }
+  ]
+}

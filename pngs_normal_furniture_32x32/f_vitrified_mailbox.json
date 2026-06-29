@@ -1,0 +1,10 @@
+{
+  "id": "f_vitrified_mailbox",
+  "fg": [
+    "f_vitrified_mailbox",
+    "f_vitrified_mailbox_1",
+    "f_vitrified_mailbox_2",
+    "f_vitrified_mailbox_3"
+  ],
+  "rotates": true
+}

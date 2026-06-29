@@ -1,0 +1,14 @@
+{
+  "id": [
+    "police_dept_d011",
+    "police_dept_d012"
+  ],
+  "fg": [
+    "police_dept_d011",
+    "police_dept_d011_1",
+    "police_dept_d011_2",
+    "police_dept_d011_3"
+  ],
+  "bg": "2farm_loft_3_bg",
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": [
+    "vp_ap_portable_generator",
+    "ap_portable_generator",
+    "portable_generator",
+    "f_portable_generator"
+  ],
+  "fg": "vp_ap_portable_generator",
+  "rotates": false
+}

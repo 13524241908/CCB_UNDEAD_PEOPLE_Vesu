@@ -1,8 +1,0 @@
-{
-  "id": "mon_deer",
-  "fg": [
-    { "weight": 1, "sprite": "mon_deer_buck" },
-    { "weight": 2, "sprite": "mon_deer_doe" }
-  ],
-  "bg": "shadow_64x64_medium"
-}
